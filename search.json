@@ -1,15 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Metaanalysis-website",
-    "section": "",
-    "text": "Index",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -40,6 +30,16 @@
     "crumbs": [
       "Contents:",
       "Summary"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Metaanalysis-website",
+    "section": "",
+    "text": "Index",
+    "crumbs": [
+      "Overview"
     ]
   }
 ]
