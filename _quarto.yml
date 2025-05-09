@@ -1,0 +1,33 @@
+project:
+  type: website
+  
+website: 
+  page-navigation: true
+  favicon: img/logo_1.png
+  reader-mode: true
+  title: "Metaanalysis Website"
+  sidebar:
+    title: Metaanalysis Website
+    logo: img/logo_1.png
+    tools: 
+      - icon: envelope
+        href: "mailto:david.matischek@edu.uni-graz.at"
+      - icon: github
+        href: https://github.com/saiko-psych
+    contents: 
+      - text: "Overview"
+        href: index.qmd
+      - section: "Contents:"
+        contents:
+        - text: "About Page"
+          href: about.qmd
+        - text: "Summary"
+          href: docs/short_summary.qmd
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    theme: flatly
+    toc: true
