@@ -21,6 +21,8 @@ website:
         contents:
         - text: "About Page"
           href: about.qmd
+        - text: "Summary"
+          href: docs/short_summary.qmd
 
 execute:
   freeze: auto
