@@ -1,5 +1,15 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Metaanalysis-website",
+    "section": "",
+    "text": "Overview\nThis is an overview\n\n\nThe effect of educational mobile games on learning performance: a meta-analysis and research synthesis",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -30,16 +40,6 @@
     "crumbs": [
       "Contents:",
       "Summary"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Metaanalysis-website",
-    "section": "",
-    "text": "Overview\nThis is an overview\n\n\nThe effect of educational mobile games on learning performance: a meta-analysis and research synthesis",
-    "crumbs": [
-      "Overview"
     ]
   }
 ]
