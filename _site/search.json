@@ -19,5 +19,27 @@
       "Contents:",
       "About Page"
     ]
+  },
+  {
+    "objectID": "docs/short_summary.html",
+    "href": "docs/short_summary.html",
+    "title": "short summary meta",
+    "section": "",
+    "text": "aöshföasf\naspäfjasf as#füaspfj\nas#pfjaä",
+    "crumbs": [
+      "Contents:",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "docs/short_summary.html#this-is-a-short-summary-about-this-meta-analysis",
+    "href": "docs/short_summary.html#this-is-a-short-summary-about-this-meta-analysis",
+    "title": "short summary meta",
+    "section": "",
+    "text": "aöshföasf\naspäfjasf as#füaspfj\nas#pfjaä",
+    "crumbs": [
+      "Contents:",
+      "Summary"
+    ]
   }
 ]

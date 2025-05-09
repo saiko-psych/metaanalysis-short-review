@@ -7,7 +7,7 @@ website:
   reader-mode: true
   title: "Metaanalysis Website"
   sidebar:
-    title: R-Guide
+    title: Metaanalysis Website
     logo: img/logo_1.png
     tools: 
       - icon: envelope
