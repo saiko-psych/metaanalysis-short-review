@@ -2,8 +2,26 @@
 title: "About"
 ---
 
-About this site
+---
+title: "David Matischek"
+about:
+  template: jolla
+  image: img/david.jpg
+  links:
+    - icon: envelope
+      text: Mail
+      href: "mailto:david.matischek@edu.uni-graz.at"
+    - icon: github
+      text: Github
+      href: https://github.com/saiko-psych
+---
 
-```{r}
-1 + 1
-```
+Text about me
+
+## Education
+
+my education
+
+## Experience
+
+my experience

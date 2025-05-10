@@ -12,9 +12,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "David and Andreas",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.",
     "crumbs": [
       "Contents:",
       "About Page"
@@ -40,6 +40,39 @@
     "crumbs": [
       "Contents:",
       "Summary"
+    ]
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "David and Andreas",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011",
+    "crumbs": [
+      "Contents:",
+      "About Page"
+    ]
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "David and Andreas",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018",
+    "crumbs": [
+      "Contents:",
+      "About Page"
+    ]
+  },
+  {
+    "objectID": "docs/matischek_study.html",
+    "href": "docs/matischek_study.html",
+    "title": "matischek study",
+    "section": "",
+    "text": "here i will present my individuall study",
+    "crumbs": [
+      "Contents:",
+      "Matischek Study"
     ]
   }
 ]

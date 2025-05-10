@@ -21,7 +21,15 @@ As part of the course, we created a website to present the findings of a meta-an
   - Use digital technologies to improve psychological science communication
 
 
+### 
+Team
 
+  - Matischek David, BSc. Psychology
+  - Obrist Andreas, BSc.
+
+
+
+### License
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
 
