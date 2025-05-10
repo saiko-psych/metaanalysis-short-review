@@ -24,6 +24,9 @@ website:
           href: about.qmd
         - text: "Summary"
           href: docs/short_summary.qmd
+        - text: "Matischek Study"
+          href: docs/matischek_study.qmd
+
 
 execute:
   freeze: auto
