@@ -4,42 +4,53 @@
     "href": "index.html",
     "title": "Metaanalysis-website",
     "section": "",
-    "text": "Overview\nThis is an overview hello\n\n\nThe effect of educational mobile games on learning performance: a meta-analysis and research synthesis",
+    "text": "Overview\nThis is an overview hello\n\n\nThe effect of educational mobile games on learning performance: a meta-analysis and research synthesis\nhttps://www.clearinghouse.edu.tum.de/spielbasiertes-lernen/spielbasiertes-lernen-und-motivation/",
     "crumbs": [
       "Overview"
     ]
   },
   {
+    "objectID": "docs/matischek_study.html",
+    "href": "docs/matischek_study.html",
+    "title": "matischek study",
+    "section": "",
+    "text": "here i will present my individuall study",
+    "crumbs": [
+      "Contents:",
+      "Matischek Study"
+    ]
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "David Matischek",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "text": "Text about me",
     "crumbs": [
       "Contents:",
       "About Page"
     ]
   },
   {
-    "objectID": "docs/short_summary.html",
-    "href": "docs/short_summary.html",
-    "title": "short summary meta",
-    "section": "",
-    "text": "aöshföasf\naspäfjasf as#füaspfj\nas#pfjaä",
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "David Matischek",
+    "section": "Education",
+    "text": "Education\nmy education",
     "crumbs": [
       "Contents:",
-      "Summary"
+      "About Page"
     ]
   },
   {
-    "objectID": "docs/short_summary.html#this-is-a-short-summary-about-this-meta-analysis",
-    "href": "docs/short_summary.html#this-is-a-short-summary-about-this-meta-analysis",
-    "title": "short summary meta",
-    "section": "",
-    "text": "aöshföasf\naspäfjasf as#füaspfj\nas#pfjaä",
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "David Matischek",
+    "section": "Experience",
+    "text": "Experience\nmy experience",
     "crumbs": [
       "Contents:",
-      "Summary"
+      "About Page"
     ]
   }
 ]
