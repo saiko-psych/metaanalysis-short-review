@@ -1,8 +1,4 @@
 ---
-title: "About"
----
-
----
 title: "David Matischek"
 about:
   template: jolla
@@ -20,7 +16,7 @@ Text about me
 
 ## Education
 
-my education
+my education 
 
 ## Experience
 
