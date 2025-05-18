@@ -3,7 +3,10 @@ title: "short summary meta"
 ---
 
 
-## this is a short summary about this meta analysis
+# The effect of educational mobile games on learning performance: a meta-analysis and research synthesis
 
 
+our article was published in the journal [Interactive Learning Environments](https://www.tandfonline.com/journals/nile20?utm_medium=affiliate&utm_campaign=S7721946419_EMENAC_NILE&utm_source=researchgate.net)
+
+*Interactive Learning Environments* is a well-regarded international peer-reviewed journal focused on educational technology and learning sciences. It is published by Taylor & Francis and covers a broad spectrum of topics such as interactive learning systems, online education, virtual classrooms, and instructional design.
 
