@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./about.html" rel="next">
+<link href="./todo.html" rel="next">
 <link href="./img/logo_1.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -124,6 +124,12 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Overview</span></a>
   </div>
 </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./todo.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">to-do</span></a>
+  </div>
+</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
@@ -190,13 +196,17 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<pre><code>glossary_add(term = "power",
+             def = "The probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.")</code></pre>
 <section id="overview" class="level1">
 <h1>Overview</h1>
-<p>This is an overview hello</p>
+<p>This is an overview hello <a class="glossary" title="The probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.">power</a></p>
 </section>
 <section id="the-effect-of-educational-mobile-games-on-learning-performance-a-meta-analysis-and-research-synthesis" class="level1">
 <h1>The effect of educational mobile games on learning performance: a meta-analysis and research synthesis</h1>
 <p>https://www.clearinghouse.edu.tum.de/spielbasiertes-lernen/spielbasiertes-lernen-und-motivation/</p>
+<p>our article was published in the journal <a href="https://www.tandfonline.com/journals/nile20?utm_medium=affiliate&amp;utm_campaign=S7721946419_EMENAC_NILE&amp;utm_source=researchgate.net">Interactive Learning Environments</a></p>
+<p><em>Interactive Learning Environments</em> is a well-regarded international peer-reviewed journal focused on educational technology and learning sciences. It is published by Taylor &amp; Francis and covers a broad spectrum of topics such as interactive learning systems, online education, virtual classrooms, and instructional design.</p>
 
 
 </section>
@@ -294,7 +304,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/saiko-psych\.github\.io\/metaanalysis-short-review\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -626,8 +636,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   <div class="nav-page nav-page-previous">
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./about.html" class="pagination-link" aria-label="About Page">
-        <span class="nav-page-text">About Page</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./todo.html" class="pagination-link" aria-label="to-do">
+        <span class="nav-page-text">to-do</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

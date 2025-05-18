@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Metaanalysis-website",
     "section": "",
-    "text": "Overview\nThis is an overview hello\n\n\nThe effect of educational mobile games on learning performance: a meta-analysis and research synthesis\nhttps://www.clearinghouse.edu.tum.de/spielbasiertes-lernen/spielbasiertes-lernen-und-motivation/",
+    "text": "glossary_add(term = \"power\",\n             def = \"The probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.\")\n\nOverview\nThis is an overview hello power\n\n\nThe effect of educational mobile games on learning performance: a meta-analysis and research synthesis\nhttps://www.clearinghouse.edu.tum.de/spielbasiertes-lernen/spielbasiertes-lernen-und-motivation/\nour article was published in the journal Interactive Learning Environments\nInteractive Learning Environments is a well-regarded international peer-reviewed journal focused on educational technology and learning sciences. It is published by Taylor & Francis and covers a broad spectrum of topics such as interactive learning systems, online education, virtual classrooms, and instructional design.",
     "crumbs": [
       "Overview"
     ]
@@ -51,6 +51,36 @@
     "crumbs": [
       "Contents:",
       "About Page"
+    ]
+  },
+  {
+    "objectID": "todo.html",
+    "href": "todo.html",
+    "title": "Interaktive To-Do-Liste",
+    "section": "",
+    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\n[ ]\n\n\n\n\n\n\n\n[ ]",
+    "crumbs": [
+      "to-do"
+    ]
+  },
+  {
+    "objectID": "todo.html#aufgabenliste",
+    "href": "todo.html#aufgabenliste",
+    "title": "Meine To-Do-Liste",
+    "section": "",
+    "text": "Erste Aufgabe  Zweite Aufgabe  Dritte Aufgabe",
+    "crumbs": [
+      "to-do"
+    ]
+  },
+  {
+    "objectID": "todo.html#to-do",
+    "href": "todo.html#to-do",
+    "title": "Interaktive To-Do-Liste",
+    "section": "",
+    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\n[ ]\n\n\n\n\n\n\n\n[ ]",
+    "crumbs": [
+      "to-do"
     ]
   }
 ]

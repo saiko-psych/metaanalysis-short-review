@@ -2,11 +2,40 @@
 title: "Metaanalysis-website"
 ---
 
+
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| results: hide
+
+
+library(glossary)
+
+glossary_path("glossary.yml")
+glossary_style("yellow", "underline")
+glossary_popup("hover")
+
+```
+
+
+```
+glossary_add(term = "power",
+             def = "The probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.")
+```
+
 # Overview
 
-This is an overview hello
+This is an overview hello `r glossary("power")`
 
 
 # The effect of educational mobile games on learning performance: a meta-analysis and research synthesis
 
 https://www.clearinghouse.edu.tum.de/spielbasiertes-lernen/spielbasiertes-lernen-und-motivation/
+
+
+our article was published in the journal [Interactive Learning Environments](https://www.tandfonline.com/journals/nile20?utm_medium=affiliate&utm_campaign=S7721946419_EMENAC_NILE&utm_source=researchgate.net)
+
+*Interactive Learning Environments* is a well-regarded international peer-reviewed journal focused on educational technology and learning sciences. It is published by Taylor & Francis and covers a broad spectrum of topics such as interactive learning systems, online education, virtual classrooms, and instructional design.
+

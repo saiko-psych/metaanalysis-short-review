@@ -1,0 +1,26 @@
+---
+title: "Interaktive To-Do-Liste"
+format: html
+---
+
+## to do 
+
+::: panel-tabset
+
+
+## together
+
+- [X] make a todo list 
+- []  nice looking Front page
+
+
+## Andreas
+
+- [] implement own study
+
+## David
+
+- [] implement own study
+
+
+:::

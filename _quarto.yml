@@ -18,6 +18,8 @@ website:
     contents: 
       - text: "Overview"
         href: index.qmd
+      - text: "to-do"
+        href: todo.qmd   
       - section: "Contents:"
         contents:
         - text: "About Page"
