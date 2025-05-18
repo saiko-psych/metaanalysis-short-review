@@ -1,0 +1,19 @@
+{
+  "hash": "47553ebe84f1e774e64e2fc71e0ebd9a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"\"\neditor: source\nglossary: glossary.yml\n---\n\n\n\n# Glossary {#sec-glos}\n\n\n\n\n\n`````{=html}\n<table class=\"table table-striped table-hover table-condensed\" style=\"margin-left: auto; margin-right: auto;\">\n <thead>\n  <tr>\n   <th style=\"text-align:left;\"> Term </th>\n   <th style=\"text-align:left;\"> Definition </th>\n  </tr>\n </thead>\n<tbody>\n  <tr>\n   <td style=\"text-align:left;width: 25%; \"> <a href=\"#power\">power</a> </td>\n   <td style=\"text-align:left;width: 75%; \"> The probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.<br><br>See <a href=\"https://debruine.github.io/glossary/articles/glossary.html\">Equivalence Testing for Psychological Research</a> for a tutorial on methods for choosing an SESOI. </td>\n  </tr>\n  <tr>\n   <td style=\"text-align:left;width: 25%; \"> <a href=\"#wtf\">wtf</a> </td>\n   <td style=\"text-align:left;width: 75%; \"> slang for what se fuick </td>\n  </tr>\n</tbody>\n</table>\n\n`````\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"site_libs/kePrint-0.0.1/kePrint.js\"></script>\n<link href=\"site_libs/lightable-0.0.1/lightable.css\" rel=\"stylesheet\" />\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

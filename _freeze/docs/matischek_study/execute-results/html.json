@@ -1,0 +1,17 @@
+{
+  "hash": "13ac4f5b6c2de22a5d760ab612e21daa",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"matischek study\"\n\nglossary:\n  path: ../glossary.yml\n  popup: click\n  show: true\n---\n\n\n\n\n\n\n\n# here i will present my individuall study\n\n\n\n\n\n\n\n\n\n::: {.cell}\n\n:::\n\n\n\n\n\n\n\n```\n#| echo: false\n#| warning: false\n#| message: false\n#| eval: false\n\n\nglossary_add(term = \"wtf\",\n             def = \"slang for 'what se fuick'\")\n```\n\n\n\n\n\n\n\n\n\n\n{{< glossary wtf >}}\n\n\n\n\n\n\n\n\n\n\n\n\n\n## Glossary\n\n\n\n\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\nDataframe mit 0 Spalten und 0 Zeilen\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "matischek_study_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

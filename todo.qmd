@@ -11,16 +11,22 @@ format: html
 ## together
 
 - [X] make a todo list 
-- []  nice looking Front page
+- [ ]  nice looking Front page
+- [x] insert glossary System
 
 
 ## Andreas
 
-- [] implement own study
+- [ ] implement own study
 
 ## David
-
-- [] implement own study
+ 
+- [ ] implement own study
+- [ ] select own study
+- [ ] implement meta analysis
 
 
 :::
+
+
+

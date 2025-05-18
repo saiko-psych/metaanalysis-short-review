@@ -1,0 +1,48 @@
+---
+title: ""
+editor: source
+glossary: glossary.yml
+---
+
+# Glossary {#sec-glos}
+
+
+
+```{r}
+#| echo: false
+#| results: asis
+#| warning: false
+#| message: false
+
+library(yaml)
+library(tibble)
+library(knitr)
+library(kableExtra)
+library(stringr)
+
+# Load glossary
+gloss <- yaml::read_yaml("glossary.yml")
+
+# Function to process definitions: preserve paragraphs + convert links
+process_def <- function(x) {
+  html <- str_replace_all(str_trim(x), "\n\n+", "<br><br>")
+  str_replace_all(html, "\\[([^\\]]+)\\]\\(([^\\)]+)\\)", "<a href='\\2'>\\1</a>")
+}
+
+# Create table
+gloss_df <- tibble(
+  Term = sprintf("<a href='#%s'>%s</a>", names(gloss), names(gloss)),
+  Definition = vapply(gloss, process_def, FUN.VALUE = character(1))
+)
+
+# Render HTML table
+kable(gloss_df, format = "html", escape = FALSE, col.names = c("Term", "Definition")) %>%
+  kable_styling(
+    bootstrap_options = c("striped", "hover", "condensed"),
+    full_width = TRUE
+  ) %>%
+  column_spec(1, width = "25%") %>%
+  column_spec(2, width = "75%")
+```
+
+

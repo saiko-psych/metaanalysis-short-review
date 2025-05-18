@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Metaanalysis-website",
     "section": "",
-    "text": "glossary_add(term = \"power\",\n             def = \"The probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.\")\n\nOverview\nThis is an overview hello power\n\n\nThe effect of educational mobile games on learning performance: a meta-analysis and research synthesis\nhttps://www.clearinghouse.edu.tum.de/spielbasiertes-lernen/spielbasiertes-lernen-und-motivation/\nour article was published in the journal Interactive Learning Environments\nInteractive Learning Environments is a well-regarded international peer-reviewed journal focused on educational technology and learning sciences. It is published by Taylor & Francis and covers a broad spectrum of topics such as interactive learning systems, online education, virtual classrooms, and instructional design.",
+    "text": "WARNING\n\n\n\n\n\n\nhow to use the glossary:\n\npower",
     "crumbs": [
       "Overview"
     ]
@@ -14,7 +14,7 @@
     "href": "docs/matischek_study.html",
     "title": "matischek study",
     "section": "",
-    "text": "here i will present my individuall study",
+    "text": "#| echo: false\n#| warning: false\n#| message: false\n#| eval: false\n\n\nglossary_add(term = \"wtf\",\n             def = \"slang for 'what se fuick'\")\nslang for what se fuickwtf\n\n\n\n\nDataframe mit 0 Spalten und 0 Zeilen",
     "crumbs": [
       "Contents:",
       "Matischek Study"
@@ -58,7 +58,7 @@
     "href": "todo.html",
     "title": "Interaktive To-Do-Liste",
     "section": "",
-    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\n[ ]\n\n\n\n\n\n\n\n[ ]",
+    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\nnice looking Front page\ninsert glossary System\n\n\n\n\nimplement own study\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis",
     "crumbs": [
       "to-do"
     ]
@@ -78,9 +78,72 @@
     "href": "todo.html#to-do",
     "title": "Interaktive To-Do-Liste",
     "section": "",
-    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\n[ ]\n\n\n\n\n\n\n\n[ ]",
+    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\nnice looking Front page\ninsert glossary System\n\n\n\n\nimplement own study\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis",
     "crumbs": [
       "to-do"
     ]
+  },
+  {
+    "objectID": "docs/matischek_study.html#glossary",
+    "href": "docs/matischek_study.html#glossary",
+    "title": "matischek study",
+    "section": "",
+    "text": "Dataframe mit 0 Spalten und 0 Zeilen",
+    "crumbs": [
+      "Contents:",
+      "Matischek Study"
+    ]
+  },
+  {
+    "objectID": "glossary.html",
+    "href": "glossary.html",
+    "title": "Glossary",
+    "section": "",
+    "text": "Glossary\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\npower\nThe probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.\n\nSee Equivalence Testing for Psychological Research for a tutorial on methods for choosing an SESOI.\n\n\nwtf\nslang for what se fuick"
+  },
+  {
+    "objectID": "index.html#the-effect-of-educational-mobile-games-on-learning-performance-a-meta-analysis-and-research-synthesis",
+    "href": "index.html#the-effect-of-educational-mobile-games-on-learning-performance-a-meta-analysis-and-research-synthesis",
+    "title": "Metaanalysis-website",
+    "section": "",
+    "text": "https://www.clearinghouse.edu.tum.de/spielbasiertes-lernen/spielbasiertes-lernen-und-motivation/\nour article was published in the journal Interactive Learning Environments\nInteractive Learning Environments is a well-regarded international peer-reviewed journal focused on educational technology and learning sciences. It is published by Taylor & Francis and covers a broad spectrum of topics such as interactive learning systems, online education, virtual classrooms, and instructional design.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "glossary.html#power",
+    "href": "glossary.html#power",
+    "title": "Glossary",
+    "section": "",
+    "text": "The probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance."
+  },
+  {
+    "objectID": "glossary.html#wtf",
+    "href": "glossary.html#wtf",
+    "title": "Glossary",
+    "section": "",
+    "text": "slang for what se fuick\n\n\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\npower\nThe probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.\n\n\nwtf\nslang for what se fuick"
+  },
+  {
+    "objectID": "glossary.html#try-1",
+    "href": "glossary.html#try-1",
+    "title": "Glossary",
+    "section": "",
+    "text": "The probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.\n\n\n\n\n\nslang for what se fuick"
+  },
+  {
+    "objectID": "glossary.html#try-2",
+    "href": "glossary.html#try-2",
+    "title": "Glossary",
+    "section": "",
+    "text": "Term\nDefinition\n\n\n\n\npower\nThe probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.\n\n\nwtf\nslang for what se fuick\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\n[power](#power)\nThe probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.\n\n\n[wtf](#wtf)\nslang for what se fuick\n\n\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\npower\nThe probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.\n\n\nwtf\nslang for what se fuick"
+  },
+  {
+    "objectID": "glossary.html#try-3",
+    "href": "glossary.html#try-3",
+    "title": "Glossary",
+    "section": "",
+    "text": "Term\nDefinition\n\n\n\n\npower\nThe probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.\n\n\nwtf\nslang for what se fuick"
   }
 ]

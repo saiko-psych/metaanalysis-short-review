@@ -1,5 +1,27 @@
 ---
 title: "matischek study"
+
+glossary:
+  path: ../glossary.yml
+  popup: click
+  show: true
 ---
 
 # here i will present my individuall study
+
+
+
+
+
+
+
+
+
+{{< glossary wtf >}}
+
+
+## Glossary
+
+
+
+

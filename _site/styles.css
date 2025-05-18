@@ -1,1 +1,20 @@
 /* css styles */
+
+
+button.glossary {
+  background-color: transparent;
+  border: none;
+  color: #148f77;        
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: none;
+}
+
+button.glossary:hover {
+  color: #40E0D0;        
+  text-decoration: underline;
+  font-size: 1em;
+  transition: color 0.2s ease;
+}
+
