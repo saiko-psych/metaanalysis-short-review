@@ -1,20 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Metaanalysis-website",
+    "objectID": "todo.html",
+    "href": "todo.html",
+    "title": "Interaktive To-Do-Liste",
     "section": "",
-    "text": "Overview\nThis is an overview hello\n\n\nThe effect of educational mobile games on learning performance: a meta-analysis and research synthesis\nhttps://www.clearinghouse.edu.tum.de/spielbasiertes-lernen/spielbasiertes-lernen-und-motivation/",
+    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\nnice looking Front page\ninsert glossary System\n\n\n\n\nimplement own study\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis",
     "crumbs": [
-      "Overview"
+      "to-do"
     ]
+  },
+  {
+    "objectID": "todo.html#to-do",
+    "href": "todo.html#to-do",
+    "title": "Interaktive To-Do-Liste",
+    "section": "",
+    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\nnice looking Front page\ninsert glossary System\n\n\n\n\nimplement own study\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis",
+    "crumbs": [
+      "to-do"
+    ]
+  },
+  {
+    "objectID": "glossary.html",
+    "href": "glossary.html",
+    "title": "Glossary",
+    "section": "",
+    "text": "Glossary\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\npower\nThe probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.\n\nSee Equivalence Testing for Psychological Research for a tutorial on methods for choosing an SESOI.\n\n\nwtf\nslang for what se fuick"
   },
   {
     "objectID": "docs/matischek_study.html",
     "href": "docs/matischek_study.html",
     "title": "matischek study",
     "section": "",
-    "text": "here i will present my individuall study",
+    "text": "slang for what se fuickwtf",
     "crumbs": [
       "Contents:",
       "Matischek Study"
@@ -51,6 +68,27 @@
     "crumbs": [
       "Contents:",
       "About Page"
+    ]
+  },
+  {
+    "objectID": "docs/short_summary.html",
+    "href": "docs/short_summary.html",
+    "title": "short summary meta",
+    "section": "",
+    "text": "The effect of educational mobile games on learning performance: a meta-analysis and research synthesis\nour article was published in the journal Interactive Learning Environments\nInteractive Learning Environments is a well-regarded international peer-reviewed journal focused on educational technology and learning sciences. It is published by Taylor & Francis and covers a broad spectrum of topics such as interactive learning systems, online education, virtual classrooms, and instructional design.",
+    "crumbs": [
+      "Contents:",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Metaanalysis-website",
+    "section": "",
+    "text": "This site is just the starting page of the Website :)\n\n\n\n\n\n\nWARNING\n\n\n\n\n\n\nhow to use the glossary:\n\npower\n\nBenchmark Website",
+    "crumbs": [
+      "Overview"
     ]
   }
 ]
