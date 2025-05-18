@@ -1,0 +1,28 @@
+<svg width="200" height="220" viewBox="0 0 200 220" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Einzelstudien (gestreut, schwarz, CI + Punkt) -->
+  <line x1="30" y1="30" x2="100" y2="30" stroke="#000" stroke-width="3.5"/>
+  <circle cx="60" cy="30" r="6" fill="#000"/>
+
+  <line x1="50" y1="60" x2="150" y2="60" stroke="#000" stroke-width="3.5"/>
+  <circle cx="90" cy="60" r="5.5" fill="#000"/>
+
+  <line x1="40" y1="90" x2="95" y2="90" stroke="#000" stroke-width="3.5"/>
+  <circle cx="70" cy="90" r="7" fill="#000"/>
+
+  <line x1="70" y1="120" x2="170" y2="120" stroke="#000" stroke-width="3.5"/>
+  <circle cx="120" cy="120" r="5" fill="#000"/>
+
+  <line x1="55" y1="150" x2="140" y2="150" stroke="#000" stroke-width="3.5"/>
+  <circle cx="100" cy="150" r="6" fill="#000"/>
+
+  <!-- Gesamteffekt-Schätzer (weiter rechts, größer, mit Platz) -->
+  <!-- CI-Linie -->
+  <line x1="100" y1="190" x2="180" y2="190" stroke="#111" stroke-width="6"/>
+
+  <!-- Diamant -->
+  <polygon points="140,170 170,190 140,210 110,190" fill="#111"/>
+
+  <!-- Zentrumspunkt -->
+  <circle cx="140" cy="190" r="9" fill="#fff" stroke="#000" stroke-width="3"/>
+</svg>

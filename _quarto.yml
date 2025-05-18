@@ -4,12 +4,12 @@ project:
   
 website: 
   page-navigation: true
-  favicon: img/logo_1.png
+  favicon: img/icon.png
   reader-mode: true
   title: "Metaanalysis Website"
   sidebar:
     title: Metaanalysis Website
-    logo: img/logo_1.png
+    logo: img/icon.svg
     tools: 
       - icon: envelope
         href: "mailto:david.matischek@edu.uni-graz.at"
