@@ -18,6 +18,8 @@ format: html
 ## Andreas
 
 - [ ] implement own study
+- [x] select own study
+- [ ] implement meta analysis review
 
 ## David
  
