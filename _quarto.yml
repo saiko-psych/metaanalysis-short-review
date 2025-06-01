@@ -26,8 +26,12 @@ website:
           href: about.qmd
         - text: "Summary"
           href: docs/short_summary.qmd
+        - text: "Meta-Analysis Review"
+          href: docs/meta_review.qmd
         - text: "Matischek Study"
           href: docs/matischek_study.qmd
+        - text: "Obrist Study"
+          href: docs/obrist_study.qmd
 
 
 execute:
