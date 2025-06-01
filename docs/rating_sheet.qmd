@@ -1,0 +1,42 @@
+---
+title: "Meta-Analysis Rating Sheet"
+---
+
+
+## 1. Literature Search 
+
+The authors provide a well-structured overview of previous research on educational mobile games. They explain their reasoning for conducting their meta-analysis by addressing the research gap in the field. Earlier studies focused either on specific subjects (like language learning or STEM) or on digital educational games without isolating the mobile component. They also mention that earlier work focused on motivation rather than direct learning performance.
+By reviewing several recent meta-analyses (e.g., Tsai & Tsai, 2020; Wang et al., 2022) and looking at various confounding factors that might moderate the effects of educational mobile games, as hinted by prior work from various researchers (e.g., Chen et al., 2020; Huizenga et al., 2009; Tsai & Tsai, 2018), the authors make a strong case to investigate this topic further.
+
+**Fulfilled: 95%**
+
+## 2. Study Selection 
+
+The study outlines its inclusion and exclusion criteria clearly and follows the PRISMA method. The database search is broad, covering several academic databases (ACM Library, Google Scholar, IEEE Xplore, Science Direct, Scopus, Taylor & Francis, and Web of Science.) with detailed Boolean terms. The authors only included peer reviewed papers and the justification for the timeframe (2013–2023) is grounded in the literature on mobile learning phases (Cochrane, 2013). From an initial pool of 2,461 studies, 38 were included after applying the screening steps.
+However, our review raises concerns about how consistently the selection criteria were applied. After manually looking at the included studies, a small number of studies do not clearly specify the platform used, and several other studies show signs of using desktop environments rather than mobile devices. One study used an Xbox Kinect, which falls outside most definitions of mobile learning. These inconsistencies could suggest that some decisions during the selection process may not fully align with the study’s stated focus on mobile games or that the authors had more information at hand than we could gather from a simple reading of the papers.
+
+**Fulfilled: 60%**
+
+## 3. Data Extraction and Coding 
+
+The authors present a detailed and transparent coding scheme. Moderator variables, such as level of education, field of education, device type, learning setting, and intervention period, are all clearly defined and coded. 
+Two authors conducted the coding of all the included papers, disagreements in coding, if any, were discussed and resolved. 
+
+**Fulfilled: 95%**
+
+## 4. Statistical Analysis 
+
+The statistical methods used are appropriate and clearly reported. The authors calculate effect sizes using Hedges’ g, assess heterogeneity using I², and check for publication bias with funnel plots, regression, and the trim-and-fill method. Subgroup and moderator analyses are performed across multiple dimensions.
+A limitation, however, lies in the subgroup results that are based on only one study. While this is acknowledged in the limitations section, these single-study interactions are presented in the same way as more robust categories, which could give a misleading impression of their generalizability. This slightly weakens the strength of conclusions drawn from those comparisons.
+
+**Fulfilled: 85%**
+
+## Overall Evaluation
+
+Tlili et al. (2024) present a relevant meta-analysis focusing on educational mobile games, a topic still underrepresented in prior research. The study is conceptually strong and offers detailed insights into how different types of mobile games perform in different educational contexts.
+Its main limitations are found with the selection criteria and the small sample sizes in certain subgroup comparisons. These affect the reliability of a few specific findings but do not undermine the overall contribution. The study is well executed and provides a solid foundation for future research in this area.
+
+**Average Fulfillment Across Categories: 84%**
+
+
+
