@@ -1,0 +1,21 @@
+---
+title: "Can Role-Playing Games Make Math More Fun and Effective?"
+---
+
+
+# A microworld-based role-playing game development approach to engaging students in interactive, enjoyable, and effective mathematics learning by Tlili et al. (2024)
+
+# What did they do?
+In this study, Wang et al. (2018) explored how a microworld-based role-playing game could help elementary school students learn mathematics more effectively and enjoyably. The researchers developed a digital game called "Speedy World", which was integrated into a sixth-grade math unit on speed = distance/time.
+
+# How did their game work?
+The game was based on the classic story of The Tortoise and the Hare. Students took on the role of the tortoise, adjusting speed and time inputs in a simulated race to beat the hare. Through this interactive and explorative microworld, students could experiment, learn by doing, and solve practical problems in a gamified environment.
+
+# How did they do it?
+To test its effectiveness, the researchers conducted a quasi-experiment with 107 sixth graders in Taiwan. Half of the students used the microworld-based game, while the other half learned through a conventional technology-enhanced approach—a more structured, non-interactive online learning platform.
+
+# Results
+The results were clear: students in the game-based group showed higher learning achievement, greater motivation, and stronger technology acceptance. They not only performed better on post-tests, but also rated the system as easier and more useful than traditional digital tools.
+
+# Why is it relevant?
+This study highlights the potential of well-designed educational games—especially those rooted in microworlds and storytelling—to make math learning more engaging and effective.
