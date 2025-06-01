@@ -4,7 +4,7 @@
     "href": "todo.html",
     "title": "Interaktive To-Do-Liste",
     "section": "",
-    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\nnice looking Front page\ninsert glossary System\n\n\n\n\nimplement own study\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis",
+    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\nnice looking Front page\ninsert glossary System\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis review\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis",
     "crumbs": [
       "to-do"
     ]
@@ -14,7 +14,7 @@
     "href": "todo.html#to-do",
     "title": "Interaktive To-Do-Liste",
     "section": "",
-    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\nnice looking Front page\ninsert glossary System\n\n\n\n\nimplement own study\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis",
+    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\nnice looking Front page\ninsert glossary System\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis review\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis",
     "crumbs": [
       "to-do"
     ]
@@ -25,6 +25,17 @@
     "title": "Glossary",
     "section": "",
     "text": "Glossary\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\npower\nThe probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.\n\nSee Equivalence Testing for Psychological Research for a tutorial on methods for choosing an SESOI.\n\n\nwtf\nslang for what se fuick"
+  },
+  {
+    "objectID": "docs/obrist_study.html",
+    "href": "docs/obrist_study.html",
+    "title": "Can Role-Playing Games Make Math More Fun and Effective?",
+    "section": "",
+    "text": "A microworld-based role-playing game development approach to engaging students in interactive, enjoyable, and effective mathematics learning by Tlili et al. (2024)\n\n\nWhat did they do?\nIn this study, Wang et al. (2018) explored how a microworld-based role-playing game could help elementary school students learn mathematics more effectively and enjoyably. The researchers developed a digital game called “Speedy World”, which was integrated into a sixth-grade math unit on speed = distance/time.\n\n\nHow did their game work?\nThe game was based on the classic story of The Tortoise and the Hare. Students took on the role of the tortoise, adjusting speed and time inputs in a simulated race to beat the hare. Through this interactive and explorative microworld, students could experiment, learn by doing, and solve practical problems in a gamified environment.\n\n\nHow did they do it?\nTo test its effectiveness, the researchers conducted a quasi-experiment with 107 sixth graders in Taiwan. Half of the students used the microworld-based game, while the other half learned through a conventional technology-enhanced approach—a more structured, non-interactive online learning platform.\n\n\nResults\nThe results were clear: students in the game-based group showed higher learning achievement, greater motivation, and stronger technology acceptance. They not only performed better on post-tests, but also rated the system as easier and more useful than traditional digital tools.\n\n\nWhy is it relevant?\nThis study highlights the potential of well-designed educational games—especially those rooted in microworlds and storytelling—to make math learning more engaging and effective.",
+    "crumbs": [
+      "Contents:",
+      "Obrist Study"
+    ]
   },
   {
     "objectID": "docs/matischek_study.html",
@@ -68,6 +79,17 @@
     "crumbs": [
       "Contents:",
       "About Page"
+    ]
+  },
+  {
+    "objectID": "docs/meta_review.html",
+    "href": "docs/meta_review.html",
+    "title": "Meta-Analysis Review",
+    "section": "",
+    "text": "Evaluation of the Meta-Analysis by Tlili et al. (2024)\n\n\n1. How substantial are the effects? (Magnitude)\nThe meta-analysis reports a large overall effect size (g = 0.97), suggesting that educational mobile games have a significant positive effect on learning performance. Puzzle games showed the strongest impact (g = 1.32), with other genres like role-playing (g = 0.85), adventure games (g = 0.65), and action games (g = 0.71), also showing moderate to large effect sizes. The overall effects are both statistically and practically important and strengthen the case for game-based approaches in education.\n\n\n2. How nuanced are the findings? (Articulation)\nThe meta-analysis from Tlili et al. (2024) focuses a large part on the detailed exploration of moderator variables. The authors analyze effects across a wide range of factors, including field of education, education level, learning setting, device type, intervention duration. These distinctions provide valuable insight into when and how mobile games are most effective. The study’s relevance for educational practice is increased by the structured approach to moderator analysis, which allows differentiated conclusions rather than general recommendations.\n\n\n3. How generalizable are the findings? (Generalizability)\nThe study includes 38 primary studies covering a wide variety of fields and educational levels, which supports the goal of offering broad, generalizable insights. However, one limitation is the number of studies that go into certain subgroup analyses. In several cases, reported interactions, such as specific combinations of game genres and moderators, are based on only a single study. For example, the strong effect of puzzle games in the field of education “social sciences, journalism, and information” category is drawn from just one data point. While these results are included transparently, the limited sample size in these subgroups reduces the reliability of those specific findings and means they should not be generalized without caution. To the authors credit, they mention this in their limitations.\n\n\n4. What is the scientific relevance of the study? (Impact)\nThis is one of the first meta-analyses to focus specifically on educational mobile games, to understand their effect in education. It addresses a meaningful research gap by (i) examining education as a whole, rather than focusing on specific subjects like language learning or STEM, as in Su et al. (2021) and Gao et al. (2020); (ii) emphasizing learning performance rather than outcomes like motivation or knowledge gain, as seen in Schmitz et al. (2012); and (iii) concentrating specifically on mobile educational games, rather than just digital educational games as a whole. The study also offers theoretical and practical information, which makes it especially helpful for various stakeholders who are interested in how mobile technologies can enhance learning, such as educators, instructional designers, and policymakers.\n\n\n5. How credible is the methodology? (Credibility)\nThe meta-analysis follows established standards for systematic reviews, using the PRISMA protocol and statistical methods like Hedges’ g, I², and multiple techniques for publication bias detection (funnel plots, Egger’s regression and trim-and-fill methods). The coding of moderators is systematic and well-documented. That said, a few of the included studies raise questions about alignment with the stated inclusion criteria. From our understanding and research, a small number of studies did not clearly specify the type of device used or appeared to involve desktop environments rather than mobile platforms. These cases could have been screened more carefully, and they slightly reduce confidence in the “mobile-specific” focus of the findings.\n\n\nConclusion for educational practice\nTlili et al. (2024) provide strong evidence that educational mobile games, especially puzzle-based ones, can positively influence student learning performance. The meta-analysis offers practical insights into what kinds of games work best, for which subjects, and under what conditions. At the same time, educators should keep in mind that some subgroup findings are based on very limited data, and that not all included studies were equally clear about the platform used. Still, the study is a valuable resource for guiding the use of mobile games in different educational contexts.",
+    "crumbs": [
+      "Contents:",
+      "Meta-Analysis Review"
     ]
   },
   {
