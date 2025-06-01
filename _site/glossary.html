@@ -122,6 +122,10 @@ See <a href="https://debruine.github.io/glossary/articles/glossary.html">Equival
 <td style="text-align: left; width: 25%;"><a href="#wtf">wtf</a></td>
 <td style="text-align: left; width: 75%;">slang for what se fuick</td>
 </tr>
+<tr class="odd">
+<td style="text-align: left; width: 25%;"><a href="#Ching-Yi%20Chan">Ching-Yi Chan</a></td>
+<td style="text-align: left; width: 75%;">A researcher who has contributed to the field of psychology, particularly in the area of statistical methods and data analysis. See <a href="https://debruine.github.io/glossary/articles/glossary.html">Ching-Yi Chan's work</a> for more information.</td>
+</tr>
 </tbody>
 </table>
 
@@ -223,7 +227,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/saiko-psych\.github\.io\/metaanalysis-short-review\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
