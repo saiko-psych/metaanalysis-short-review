@@ -161,6 +161,15 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+<<<<<<< HEAD
+=======
+  <a href="./docs/rating_sheet.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Meta-Analyis Rating Sheet</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+>>>>>>> a76f8fa18cdcaeb76e780635ae4ecf522c6176cb
   <a href="./docs/matischek_study.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Matischek Study</span></a>
   </div>
@@ -327,7 +336,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/saiko-psych\.github\.io\/metaanalysis-short-review\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

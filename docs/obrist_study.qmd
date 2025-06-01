@@ -1,21 +1,60 @@
 ---
-title: "Can Role-Playing Games Make Math More Fun and Effective?"
+title: "A microworld-based role-playing game development approach to engaging students in interactive, enjoyable, and effective mathematics learning by Wang et al. (2018)"
 ---
 
 
-# A microworld-based role-playing game development approach to engaging students in interactive, enjoyable, and effective mathematics learning by Tlili et al. (2024)
+## What did they do?
 
-# What did they do?
-In this study, Wang et al. (2018) explored how a microworld-based role-playing game could help elementary school students learn mathematics more effectively and enjoyably. The researchers developed a digital game called "Speedy World", which was integrated into a sixth-grade math unit on speed = distance/time.
+In this study, Wang et al. (2018) explored how a microworld-based role-playing game could help elementary school students learn mathematics more effectively and enjoyably. The researchers developed a digital game called "Speedy World", which was focused about a sixth-grade math unit on speed. The authors wanted to investigate if students who learned with the microworld-based gaming approach have significantly higher/better outcomes in Learning Achievement, Learning Motivation and Technology Acceptance compared to those who learned with the conventional technology enhanced learning approach.
 
-# How did their game work?
+
+## How did their game work?
+
 The game was based on the classic story of The Tortoise and the Hare. Students took on the role of the tortoise, adjusting speed and time inputs in a simulated race to beat the hare. Through this interactive and explorative microworld, students could experiment, learn by doing, and solve practical problems in a gamified environment.
 
-# How did they do it?
-To test its effectiveness, the researchers conducted a quasi-experiment with 107 sixth graders in Taiwan. Half of the students used the microworld-based game, while the other half learned through a conventional technology-enhanced approach—a more structured, non-interactive online learning platform.
+## How did they do it?
 
-# Results
-The results were clear: students in the game-based group showed higher learning achievement, greater motivation, and stronger technology acceptance. They not only performed better on post-tests, but also rated the system as easier and more useful than traditional digital tools.
+To test its effectiveness, the researchers conducted a quasi-experiment with 107 sixth graders in Taiwan. Half of the students used the microworld-based game, while the other half learned through a conventional technology-enhanced approach—a more structured, non-interactive online learning platform. Regarding the procedure, the students first got an introduction to the "speed" unit, then the pre-tests and pre-questionnaires followed. After this they got an introduction to the learning activities and then separated into the two groups. At the end post-tests and post-questionnaires were deployed. 
+Pre- and post-learning performance tests were developed by two teachers with many years of experience. To investigate the Learning Motivation they adopted a questionnaire developed by Hwang and Chang (2011) and for the Technology Acceptance questionnaire the authors adopted the work from Hwang et al. (2013).
 
-# Why is it relevant?
-This study highlights the potential of well-designed educational games—especially those rooted in microworlds and storytelling—to make math learning more engaging and effective.
+## Results
+
+The authors could find significant results. Students in the game-based group showed higher Learning Achievement (table 1), greater Learning Motivation (table 2), and stronger technology acceptance (table 3). They not only performed better on post-tests, but also rated the system as easier and more useful than students who used a conventional technology enhanced learning approach.
+
+**Table 1. One-way ANCOVA Results for Mathematics Learning Achievement**
+
+| Group              | *N* | Mean  | SD    | Adjusted Mean | Adjusted SD | *F*   | *η²* |
+|--------------------|:---:|:-----:|:-----:|:--------------:|:------------:|:-----:|:----:|
+| Experimental group |  52 | 75.96 | 14.81 |     76.00      |     2.15     | 4.38* | 0.27 |
+| Control group      |  55 | 69.78 | 20.34 |     69.75      |     2.09     |       |      |
+
+\* *p* < .05
+
+---
+
+**Table 2. One-way ANCOVA Results for Mathematics Learning Motivation**
+
+| Group              | *N* | Mean | SD   | Adjusted Mean | Adjusted SD | *F*   | *η²* |
+|--------------------|:---:|:----:|:----:|:--------------:|:------------:|:-----:|:----:|
+| Experimental group |  52 | 4.87 | 0.92 |     4.87       |     2.15     | 8.64* | 0.45 |
+| Control group      |  55 | 4.43 | 1.12 |     4.43       |     2.09     |       |      |
+
+\* *p* < .05
+
+---
+
+**Table 3. t-Test Results for Post-Questionnaire Technology Acceptance Scores**
+
+| Measure               | Group              | *N* | Mean | SD   | *t*      |
+|------------------------|--------------------|:---:|:----:|:----:|:--------:|
+| Perceived usefulness   | Experimental group |  52 | 3.32 | 0.49 | 6.11***  |
+|                        | Control group      |  55 | 2.77 | 0.45 |          |
+| Perceived ease of use  | Experimental group |  52 | 3.33 | 0.50 | 5.28***  |
+|                        | Control group      |  55 | 2.77 | 0.59 |          |
+
+\*** *p* < .001
+
+
+## Why is it relevant?
+
+This study highlights the potential of well-designed educational games, especially those rooted in microworlds and storytelling, to make math learning more engaging and effective.Their findings are also consistent with prior work (Mayer et al., 2003; Chen & Hwang, 2014). Furthermore, stakeholders like teachers and game developers can look at this study to see how narrative-driven, interactive learning environments can significantly improve students’ motivation and performance when learning mathematics.
