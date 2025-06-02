@@ -28,7 +28,7 @@ website:
           href: docs/short_summary.qmd
         - text: "Meta-Analysis Review"
           href: docs/meta_review.qmd
-        - text: "Meta-Analyis Rating Sheet"
+        - text: "Meta-Analysis Rating Sheet"
           href: docs/rating_sheet.qmd
         - text: "Matischek Study"
           href: docs/matischek_study.qmd

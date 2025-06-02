@@ -3,9 +3,11 @@ title: "Meta-Analysis Review"
 ---
 
 
+We reviewed the meta-analysis by Tlili et al. (2024) using the five evaluation criteria proposed by Abelson (1995), to assess the quality and significance of the meta-analysis.
+
 ## 1. How substantial are the effects? (Magnitude)
 
-The meta-analysis reports a large overall effect size (g = 0.97), suggesting that educational mobile games have a significant positive effect on learning performance. Puzzle games showed the strongest impact (g = 1.32), with other genres like role-playing (g = 0.85), adventure games (g = 0.65), and action games (g = 0.71), also showing moderate to large effect sizes. The overall effects are both statistically and practically important and strengthen the case for game-based approaches in education.
+The meta-analysis reports a large overall effect size (*g* = 0.97), suggesting that educational mobile games have a significant positive effect on learning performance. Puzzle games showed the strongest impact (*g* = 1.32), with other genres like role-playing (*g* = 0.85), adventure games (*g* = 0.65), and action games (*g* = 0.71), also showing moderate to large effect sizes. The overall effects are both statistically and practically important and strengthen the case for game-based approaches in education.
 
 ## 2. How nuanced are the findings? (Articulation)
 
@@ -24,7 +26,7 @@ The study also offers theoretical and practical information, which makes it espe
 ## 5. How credible is the methodology? (Credibility)
 
 The meta-analysis follows established standards for systematic reviews, using the PRISMA protocol and statistical methods like Hedges’ g, I², and multiple techniques for publication bias detection (funnel plots, Egger’s regression and trim-and-fill methods). The coding of moderators is systematic and well-documented. 
-That said, a few of the included studies raise questions about alignment with the stated inclusion criteria. From our understanding and research, a small number of studies did not clearly specify the type of device used or appeared to involve desktop environments rather than mobile platforms. These cases could have been screened more carefully, and they slightly reduce confidence in the “mobile-specific” focus of the findings.
+That said, a few of the included studies raise questions about alignment with the stated inclusion criteria. From our understanding and research, a small number of studies did not clearly specify the type of device used or appeared to involve desktop environments rather than mobile platforms. These cases could have been screened more carefully, and they slightly reduce confidence in the “mobile-specific” focus of the findings. A detailed review regarding the methodology can be found on the meta-analysis rating sheet page.
 
 ## Conclusion for educational practice
 
