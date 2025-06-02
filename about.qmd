@@ -14,7 +14,7 @@ about:
 
 Text about me
 
-## Education
+<!-- ## Education -->
 
 my education
 

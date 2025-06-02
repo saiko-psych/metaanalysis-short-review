@@ -9,41 +9,99 @@ glossary:
 
 # Facilitating nursing students’ skill training in distance education via online game-based learning with the watch-summarize-question approach during the COVID-19 pandemic: A quasi-experimental study
 
-{{< Ching-Yi Chang >}}
-
-Min-Huey Chung 
-Jie Chi Yang 
-
-all from Tapei Taiwan
+Ching-Yi Chang, Min-Huey Chung, Jie Chi Yang 
 
 
-## Critic
 
-in the methods part it was stated that the game was very good and encuraged engagement -> should not be in the methods part
+## Summary: Enhancing Nursing Skill Training via Game-Based Learning
 
-no information about the control group stimuli -> same videos as experimental group?, what was on the paper-based learning sheets? (same questions as in the game?) --> in discussion dann: „only needed to watch the video to collect information to answer individual questions on the learning sheet.“ 
+::: {.callout-note}
+**Study Focus**  
+This study investigates the effectiveness of integrating **online game-based learning (OGBL)** with the **watch-summarize-question (WSQ)** strategy to enhance skill acquisition in nursing students learning **sputum suction techniques** during remote education.
+:::
 
-cronbachs alpha was only assesed one time for each questionaire -> 12 cronbachs alpha would have been needed!, also not clear if it is overall or on pre- or on post!
+### Background
+- The COVID-19 pandemic forced a shift to online education, raising concerns over how to teach practical, hands-on clinical skills.
+- Sputum suction is a critical nursing skill that, if performed incorrectly, can pose serious risks to patients.
+- Traditional video-based methods lack the interactivity and engagement necessary for effective skill training.
 
-no descriptoives in the results -> no Plot!
+---
 
-no baseline comaprisson -> assumption for ANCOVA!!! (i have to check if this really is an assumption for ANCOVA)
+## Methodology
 
-i would have liked a mixed ANOVA better, there you would have the baseline comparison (at least for the DV)
-
+::: {.callout-tip}
+**Design:** Quasi-experimental pretest-posttest design  
+**Participants:** 45 first-year nursing students  
+**Groups:**
+- **Experimental group:** Online game-based learning + WSQ strategy (n = 21)
+- **Control group:** Traditional video-based learning (n = 24)  
+**Platform Used:** Gather.town – a virtual interactive environment 
 
 ![yt-video](https://www.youtube.com/watch?v=zbllvQZRyh0)
 
+**Duration:** Two weeks (2 sessions × 100 minutes)
+:::
+
+---
+
+## Results
+
+::: {.panel-tabset}
+### Learning Achievement
+- Experimental group had significantly higher posttest scores (Adjusted Mean: 90.97) vs. control (64.40).
+- Clear benefits observed from interactive, task-based game learning combined with reflection and questioning.
+
+### Self-Efficacy
+- Higher confidence levels in the experimental group (Mean: 4.74 vs. 3.84).
+- Attributed to active participation, peer interaction, and repeated practice opportunities.
+
+### Engagement & Satisfaction
+- Students using OGBL + WSQ showed greater learning engagement and satisfaction.
+- Increased interaction, competition, and scenario-based challenges contributed to improved outcomes.
+:::
+
+---
+
+## Discussion
+
+::: {.callout-important}
+The integration of **OGBL and WSQ**:
+- Encouraged deep learning and critical thinking.
+- Fostered collaboration and student interaction, which are often missing in remote settings.
+- Supported self-regulated learning through structured reflection and peer discussion.
+:::
+
+This model not only improved short-term outcomes in sputum suction training but also showed potential for broader application in nursing education.
+
+---
+
+## Conclusion & Recommendations
+
+::: {.callout-warning}
+While the results were promising, the study notes:
+- Resource demands for game development and scenario design.
+- Small sample size and short duration limit generalizability.
+
+**Recommendations:**
+- Use free platforms like Gather for small groups.
+- Collaborate with tech experts for game design.
+- Consider applying the same model to other nursing procedures or interprofessional training.
+:::
 
 
+## Critique
 
-{{< glossary wtf >}}
+1. Missing information:
 
+  - paper based learning sheet
+  - intervention medium (desktop or mobile?)
+  - gather environment
+  - cronbachs alpha values
+  - descriptive Statistics + baseline comparison
 
+2. Missing third/fourth group (WSQ without gather/ gather without WSQ)
 
-
-
-
+3. Not Open-Science (no Pre-Registration, no Open-Data)
 
 
 
