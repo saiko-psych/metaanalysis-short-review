@@ -4,27 +4,24 @@
     "href": "todo.html",
     "title": "Interaktive To-Do-Liste",
     "section": "",
-    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\nnice looking Front page\ninsert glossary System\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis review\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis",
-    "crumbs": [
-      "to-do"
-    ]
+    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\nnice looking Front page\ninsert glossary System\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis review\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis"
   },
   {
     "objectID": "todo.html#to-do",
     "href": "todo.html#to-do",
     "title": "Interaktive To-Do-Liste",
     "section": "",
-    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\nnice looking Front page\ninsert glossary System\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis review\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis",
-    "crumbs": [
-      "to-do"
-    ]
+    "text": "togetherAndreasDavid\n\n\n\nmake a todo list\nnice looking Front page\ninsert glossary System\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis review\n\n\n\n\nimplement own study\nselect own study\nimplement meta analysis"
   },
   {
     "objectID": "glossary.html",
     "href": "glossary.html",
     "title": "Glossary",
     "section": "",
-    "text": "Glossary\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\npower\nThe probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.\n\nSee Equivalence Testing for Psychological Research for a tutorial on methods for choosing an SESOI.\n\n\nwtf\nslang for what se fuick\n\n\nChing-Yi Chan\nA researcher who has contributed to the field of psychology, particularly in the area of statistical methods and data analysis. See Ching-Yi Chan's work for more information."
+    "text": "Glossary\n\n\n\nTerm\nDefinition\n\n\n\n\nANCOVA\nAnalysis of Covariance, a statistical method that combines ANOVA and regression to control for the effects of continuous covariates.\n\n\nCOVID-19\nCoronavirus Disease 2019, a contagious respiratory illness caused by the SARS-CoV-2 virus, which led to a global pandemic starting in 2019.\n\n\nEffect size\nA quantitative measure of the magnitude of a phenomenon or relationship in a study, independent of sample size. Common metrics include Cohen's d, Hedges' g, and correlation coefficients.\n\n\nHedges g\nA measure of effect size that corrects for small sample bias, similar to Cohen's d but with an adjustment for sample size. Often used in meta-analyses to estimate standardized mean differences.\n\n\nMeta analysis\nA statistical method that combines results from multiple independent studies to identify overall trends and effect sizes. It increases statistical power and generalizability of findings.\n\n\nquasi-experiment\nAn empirical study that resembles an experimental design but lacks random assignment to conditions, limiting causal inference.\n\n\nRole-playing game (RPG)\nA type of game where participants assume the roles of characters and collaboratively create stories or scenarios, often used in psychological interventions for experiential learning.\n\n\nself-efficacy\nAn individual's belief in their ability to successfully perform specific tasks or behaviors, influencing motivation and persistence.\n\n\nsignificant\nIn statistics, refers to a result unlikely to have occurred by chance, according to a predefined threshold (usually p &lt; .05).\n\n\nSputum suction\nA medical procedure to remove mucus and secretions from the respiratory tract, often used in patients with respiratory difficulties.\n\n\nt-test\nA statistical test used to compare the means of two groups to determine if they are significantly different from each other.\n\n\nUniversity of Graz\nA major Austrian university located in Graz, known for research and teaching in psychology and cognitive sciences. Website: unigraz.at\n\n\nWatch-Summarize Question (WEQ)\nA cognitive learning strategy involving watching a video or presentation and then summarizing the key points or answering questions to enhance understanding and retention.",
+    "crumbs": [
+      "Glossary"
+    ]
   },
   {
     "objectID": "docs/rating_sheet.html",
@@ -33,8 +30,8 @@
     "section": "",
     "text": "The authors provide a well-structured overview of previous research on educational mobile games. They explain their reasoning for conducting their meta-analysis by addressing the research gap in the field. Earlier studies focused either on specific subjects (like language learning or STEM) or on digital educational games without isolating the mobile component. They also mention that earlier work focused on motivation rather than direct learning performance. By reviewing several recent meta-analyses (e.g., Tsai & Tsai, 2020; Wang et al., 2022) and looking at various confounding factors that might moderate the effects of educational mobile games, as hinted by prior work from various researchers (e.g., Chen et al., 2020; Huizenga et al., 2009; Tsai & Tsai, 2018), the authors make a strong case to investigate this topic further.\nFulfilled: 95%",
     "crumbs": [
-      "Contents:",
-      "Meta-Analysis Rating Sheet"
+      "Single Studies",
+      "Study Matischek"
     ]
   },
   {
@@ -44,8 +41,8 @@
     "section": "",
     "text": "The authors provide a well-structured overview of previous research on educational mobile games. They explain their reasoning for conducting their meta-analysis by addressing the research gap in the field. Earlier studies focused either on specific subjects (like language learning or STEM) or on digital educational games without isolating the mobile component. They also mention that earlier work focused on motivation rather than direct learning performance. By reviewing several recent meta-analyses (e.g., Tsai & Tsai, 2020; Wang et al., 2022) and looking at various confounding factors that might moderate the effects of educational mobile games, as hinted by prior work from various researchers (e.g., Chen et al., 2020; Huizenga et al., 2009; Tsai & Tsai, 2018), the authors make a strong case to investigate this topic further.\nFulfilled: 95%",
     "crumbs": [
-      "Contents:",
-      "Meta-Analysis Rating Sheet"
+      "Single Studies",
+      "Study Matischek"
     ]
   },
   {
@@ -55,8 +52,8 @@
     "section": "2. Study Selection",
     "text": "2. Study Selection\nThe study outlines its inclusion and exclusion criteria clearly and follows the PRISMA method. The database search is broad, covering several academic databases (ACM Library, Google Scholar, IEEE Xplore, Science Direct, Scopus, Taylor & Francis, and Web of Science.) with detailed Boolean terms. The authors only included peer reviewed papers and the justification for the timeframe (2013–2023) is grounded in the literature on mobile learning phases (Cochrane, 2013). From an initial pool of 2,461 studies, 38 were included after applying the screening steps. However, our review raises concerns about how consistently the selection criteria were applied. After manually looking at the included studies, a small number of studies do not clearly specify the platform used, and several other studies show signs of using desktop environments rather than mobile devices. One study used an Xbox Kinect, which falls outside most definitions of mobile learning. These inconsistencies could suggest that some decisions during the selection process may not fully align with the study’s stated focus on mobile games or that the authors had more information at hand than we could gather from a simple reading of the papers.\nFulfilled: 60%",
     "crumbs": [
-      "Contents:",
-      "Meta-Analysis Rating Sheet"
+      "Single Studies",
+      "Study Matischek"
     ]
   },
   {
@@ -66,8 +63,8 @@
     "section": "3. Data Extraction and Coding",
     "text": "3. Data Extraction and Coding\nThe authors present a detailed and transparent coding scheme. Moderator variables, such as level of education, field of education, device type, learning setting, and intervention period, are all clearly defined and coded. Two authors conducted the coding of all the included papers, disagreements in coding, if any, were discussed and resolved.\nFulfilled: 95%",
     "crumbs": [
-      "Contents:",
-      "Meta-Analysis Rating Sheet"
+      "Single Studies",
+      "Study Matischek"
     ]
   },
   {
@@ -77,8 +74,8 @@
     "section": "4. Statistical Analysis",
     "text": "4. Statistical Analysis\nThe statistical methods used are appropriate and clearly reported. The authors calculate effect sizes using Hedges’ g, assess heterogeneity using I², and check for publication bias with funnel plots, regression, and the trim-and-fill method. Subgroup and moderator analyses are performed across multiple dimensions. A limitation, however, lies in the subgroup results that are based on only one study. While this is acknowledged in the limitations section, these single-study interactions are presented in the same way as more robust categories, which could give a misleading impression of their generalizability. This slightly weakens the strength of conclusions drawn from those comparisons.\nFulfilled: 85%",
     "crumbs": [
-      "Contents:",
-      "Meta-Analysis Rating Sheet"
+      "Single Studies",
+      "Study Matischek"
     ]
   },
   {
@@ -88,8 +85,8 @@
     "section": "Overall Evaluation",
     "text": "Overall Evaluation\nTlili et al. (2024) present a relevant meta-analysis focusing on educational mobile games, a topic still underrepresented in prior research. The study is conceptually strong and offers detailed insights into how different types of mobile games perform in different educational contexts. Its main limitations are found with the selection criteria and the small sample sizes in certain subgroup comparisons. These affect the reliability of a few specific findings but do not undermine the overall contribution. The study is well executed and provides a solid foundation for future research in this area.\nAverage Fulfillment Across Categories: 84%",
     "crumbs": [
-      "Contents:",
-      "Meta-Analysis Rating Sheet"
+      "Single Studies",
+      "Study Matischek"
     ]
   },
   {
@@ -99,7 +96,7 @@
     "section": "",
     "text": "We reviewed the meta-analysis by Tlili et al. (2024) using the five evaluation criteria proposed by Abelson (1995), to assess the quality and significance of the meta-analysis.",
     "crumbs": [
-      "Contents:",
+      "Meta analysis",
       "Meta-Analysis Review"
     ]
   },
@@ -110,7 +107,7 @@
     "section": "1. How substantial are the effects? (Magnitude)",
     "text": "1. How substantial are the effects? (Magnitude)\nThe meta-analysis reports a large overall effect size (g = 0.97), suggesting that educational mobile games have a significant positive effect on learning performance. Puzzle games showed the strongest impact (g = 1.32), with other genres like role-playing (g = 0.85), adventure games (g = 0.65), and action games (g = 0.71), also showing moderate to large effect sizes. The overall effects are both statistically and practically important and strengthen the case for game-based approaches in education.",
     "crumbs": [
-      "Contents:",
+      "Meta analysis",
       "Meta-Analysis Review"
     ]
   },
@@ -121,7 +118,7 @@
     "section": "2. How nuanced are the findings? (Articulation)",
     "text": "2. How nuanced are the findings? (Articulation)\nThe meta-analysis from Tlili et al. (2024) focuses a large part on the detailed exploration of moderator variables. The authors analyze effects across a wide range of factors, including field of education, education level, learning setting, device type, intervention duration. These distinctions provide valuable insight into when and how mobile games are most effective. The study’s relevance for educational practice is increased by the structured approach to moderator analysis, which allows differentiated conclusions rather than general recommendations.",
     "crumbs": [
-      "Contents:",
+      "Meta analysis",
       "Meta-Analysis Review"
     ]
   },
@@ -132,7 +129,7 @@
     "section": "3. How generalizable are the findings? (Generalizability)",
     "text": "3. How generalizable are the findings? (Generalizability)\nThe study includes 38 primary studies covering a wide variety of fields and educational levels, which supports the goal of offering broad, generalizable insights. However, one limitation is the number of studies that go into certain subgroup analyses. In several cases, reported interactions, such as specific combinations of game genres and moderators, are based on only a single study. For example, the strong effect of puzzle games in the field of education “social sciences, journalism, and information” category is drawn from just one data point. While these results are included transparently, the limited sample size in these subgroups reduces the reliability of those specific findings and means they should not be generalized without caution. To the authors credit, they mention this in their limitations.",
     "crumbs": [
-      "Contents:",
+      "Meta analysis",
       "Meta-Analysis Review"
     ]
   },
@@ -143,7 +140,7 @@
     "section": "4. What is the scientific relevance of the study? (Impact)",
     "text": "4. What is the scientific relevance of the study? (Impact)\nThis is one of the first meta-analyses to focus specifically on educational mobile games, to understand their effect in education. It addresses a meaningful research gap by (i) examining education as a whole, rather than focusing on specific subjects like language learning or STEM, as in Su et al. (2021) and Gao et al. (2020); (ii) emphasizing learning performance rather than outcomes like motivation or knowledge gain, as seen in Schmitz et al. (2012); and (iii) concentrating specifically on mobile educational games, rather than just digital educational games as a whole. The study also offers theoretical and practical information, which makes it especially helpful for various stakeholders who are interested in how mobile technologies can enhance learning, such as educators, instructional designers, and policymakers.",
     "crumbs": [
-      "Contents:",
+      "Meta analysis",
       "Meta-Analysis Review"
     ]
   },
@@ -154,7 +151,7 @@
     "section": "5. How credible is the methodology? (Credibility)",
     "text": "5. How credible is the methodology? (Credibility)\nThe meta-analysis follows established standards for systematic reviews, using the PRISMA protocol and statistical methods like Hedges’ g, I², and multiple techniques for publication bias detection (funnel plots, Egger’s regression and trim-and-fill methods). The coding of moderators is systematic and well-documented. That said, a few of the included studies raise questions about alignment with the stated inclusion criteria. From our understanding and research, a small number of studies did not clearly specify the type of device used or appeared to involve desktop environments rather than mobile platforms. These cases could have been screened more carefully, and they slightly reduce confidence in the “mobile-specific” focus of the findings. A detailed review regarding the methodology can be found on the meta-analysis rating sheet page.",
     "crumbs": [
-      "Contents:",
+      "Meta analysis",
       "Meta-Analysis Review"
     ]
   },
@@ -165,7 +162,7 @@
     "section": "Conclusion for educational practice",
     "text": "Conclusion for educational practice\nTlili et al. (2024) provide strong evidence that educational mobile games, especially puzzle-based ones, can positively influence student learning performance. The meta-analysis offers practical insights into what kinds of games work best, for which subjects, and under what conditions. At the same time, educators should keep in mind that some subgroup findings are based on very limited data, and that not all included studies were equally clear about the platform used. Still, the study is a valuable resource for guiding the use of mobile games in different educational contexts.",
     "crumbs": [
-      "Contents:",
+      "Meta analysis",
       "Meta-Analysis Review"
     ]
   },
@@ -174,97 +171,85 @@
     "href": "about.html",
     "title": "David Matischek",
     "section": "",
-    "text": "Text about me\nmy education",
+    "text": "Hi, I’m David — welcome to this Information about me!\nThis site is a personal initiative to collect, create, and share helpful resources for working with R. Whether you’re just starting out or you’re looking for clean, ready-to-use guides, templates, and best practices, you’ll find a growing collection here.\nI’m passionate about making data science workflows more efficient and reproducible. With tools like Quarto, RMarkdown, and GitHub, we can build powerful and transparent data projects — and this site is my way of helping others do the same.\nAll content on this site is open-source, so feel free to explore, use, and adapt anything you find useful.",
     "crumbs": [
-      "Contents:",
-      "About Page"
-    ]
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "David Matischek",
-    "section": "Experience",
-    "text": "Experience\nmy experience",
-    "crumbs": [
-      "Contents:",
       "About Page"
     ]
   },
   {
     "objectID": "docs/matischek_study.html",
     "href": "docs/matischek_study.html",
-    "title": "Matischek study",
+    "title": "Facilitating nursing students’ skill training in distance education via online game-based learning with the watch-summarize-question approach during the COVID-19 pandemic: A quasi-experimental study",
     "section": "",
-    "text": "Ching-Yi Chang, Min-Huey Chung, Jie Chi Yang\n\n\n\n\n\n\n\n\nNote\n\n\n\nStudy Focus\nThis study investigates the effectiveness of integrating online game-based learning (OGBL) with the watch-summarize-question (WSQ) strategy to enhance skill acquisition in nursing students learning sputum suction techniques during remote education.\n\n\n\n\n\nThe COVID-19 pandemic forced a shift to online education, raising concerns over how to teach practical, hands-on clinical skills.\nSputum suction is a critical nursing skill that, if performed incorrectly, can pose serious risks to patients.\nTraditional video-based methods lack the interactivity and engagement necessary for effective skill training.\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nDesign: Quasi-experimental pretest-posttest design\nParticipants: 45 first-year nursing students\nGroups: - Experimental group: Online game-based learning + WSQ strategy (n = 21) - Control group: Traditional video-based learning (n = 24)\nPlatform Used: Gather.town – a virtual interactive environment\n\n\n\nyt-video\n\n\nDuration: Two weeks (2 sessions × 100 minutes)\n\n\n\n\n\n\n\nLearning AchievementSelf-EfficacyEngagement & Satisfaction\n\n\n\nExperimental group had significantly higher posttest scores (Adjusted Mean: 90.97) vs. control (64.40).\nClear benefits observed from interactive, task-based game learning combined with reflection and questioning.\n\n\n\n\nHigher confidence levels in the experimental group (Mean: 4.74 vs. 3.84).\nAttributed to active participation, peer interaction, and repeated practice opportunities.\n\n\n\n\nStudents using OGBL + WSQ showed greater learning engagement and satisfaction.\nIncreased interaction, competition, and scenario-based challenges contributed to improved outcomes.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nThe integration of OGBL and WSQ: - Encouraged deep learning and critical thinking. - Fostered collaboration and student interaction, which are often missing in remote settings. - Supported self-regulated learning through structured reflection and peer discussion.\n\n\nThis model not only improved short-term outcomes in sputum suction training but also showed potential for broader application in nursing education.\n\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nWhile the results were promising, the study notes: - Resource demands for game development and scenario design. - Small sample size and short duration limit generalizability.\nRecommendations: - Use free platforms like Gather for small groups. - Collaborate with tech experts for game design. - Consider applying the same model to other nursing procedures or interprofessional training.\n\n\n\n\n\n\nMissing information:\n\n\npaper based learning sheet\nintervention medium (desktop or mobile?)\ngather environment\ncronbachs alpha values\ndescriptive Statistics + baseline comparison\n\n\nMissing third/fourth group (WSQ without gather/ gather without WSQ)\nNot Open-Science (no Pre-Registration, no Open-Data)",
+    "text": "Ching-Yi Chang, Min-Huey Chung, Jie Chi Yang",
     "crumbs": [
-      "Contents:",
+      "Single Studies",
       "Matischek Study"
     ]
   },
   {
     "objectID": "docs/matischek_study.html#summary-enhancing-nursing-skill-training-via-game-based-learning",
     "href": "docs/matischek_study.html#summary-enhancing-nursing-skill-training-via-game-based-learning",
-    "title": "Matischek study",
-    "section": "",
-    "text": "Note\n\n\n\nStudy Focus\nThis study investigates the effectiveness of integrating online game-based learning (OGBL) with the watch-summarize-question (WSQ) strategy to enhance skill acquisition in nursing students learning sputum suction techniques during remote education.\n\n\n\n\n\nThe COVID-19 pandemic forced a shift to online education, raising concerns over how to teach practical, hands-on clinical skills.\nSputum suction is a critical nursing skill that, if performed incorrectly, can pose serious risks to patients.\nTraditional video-based methods lack the interactivity and engagement necessary for effective skill training.",
+    "title": "Facilitating nursing students’ skill training in distance education via online game-based learning with the watch-summarize-question approach during the COVID-19 pandemic: A quasi-experimental study",
+    "section": "Summary: Enhancing Nursing Skill Training via Game-Based Learning",
+    "text": "Summary: Enhancing Nursing Skill Training via Game-Based Learning\n\n\n\n\n\n\nNote\n\n\n\nStudy Focus\nThis study investigates the effectiveness of integrating online game-based learning (OGBL) with the watch-summarize-question (WSQ) strategy to enhance skill acquisition in nursing students learning sputum suction techniques during remote education.\n\n\n\nBackground\n\nThe COVID-19 pandemic forced a shift to online education, raising concerns over how to teach practical, hands-on clinical skills.\nSputum suction is a critical nursing skill that, if performed incorrectly, can pose serious risks to patients.\nTraditional video-based methods lack the interactivity and engagement necessary for effective skill training.",
     "crumbs": [
-      "Contents:",
+      "Single Studies",
       "Matischek Study"
     ]
   },
   {
     "objectID": "docs/matischek_study.html#methodology",
     "href": "docs/matischek_study.html#methodology",
-    "title": "Matischek study",
-    "section": "",
-    "text": "Tip\n\n\n\nDesign: Quasi-experimental pretest-posttest design\nParticipants: 45 first-year nursing students\nGroups: - Experimental group: Online game-based learning + WSQ strategy (n = 21) - Control group: Traditional video-based learning (n = 24)\nPlatform Used: Gather.town – a virtual interactive environment\n\n\n\nyt-video\n\n\nDuration: Two weeks (2 sessions × 100 minutes)",
+    "title": "Facilitating nursing students’ skill training in distance education via online game-based learning with the watch-summarize-question approach during the COVID-19 pandemic: A quasi-experimental study",
+    "section": "Methodology",
+    "text": "Methodology\n\n\n\n\n\n\nTip\n\n\n\nDesign: Quasi-experimental pretest-posttest design\nParticipants: 45 first-year nursing students\nGroups: - Experimental group: Online game-based learning + WSQ strategy (n = 21) - Control group: Traditional video-based learning (n = 24)\nPlatform Used: Gather.town – a virtual interactive environment\n\n\n\nyt-video\n\n\nDuration: Two weeks (2 sessions × 100 minutes)",
     "crumbs": [
-      "Contents:",
+      "Single Studies",
       "Matischek Study"
     ]
   },
   {
     "objectID": "docs/matischek_study.html#results",
     "href": "docs/matischek_study.html#results",
-    "title": "Matischek study",
-    "section": "",
-    "text": "Learning AchievementSelf-EfficacyEngagement & Satisfaction\n\n\n\nExperimental group had significantly higher posttest scores (Adjusted Mean: 90.97) vs. control (64.40).\nClear benefits observed from interactive, task-based game learning combined with reflection and questioning.\n\n\n\n\nHigher confidence levels in the experimental group (Mean: 4.74 vs. 3.84).\nAttributed to active participation, peer interaction, and repeated practice opportunities.\n\n\n\n\nStudents using OGBL + WSQ showed greater learning engagement and satisfaction.\nIncreased interaction, competition, and scenario-based challenges contributed to improved outcomes.",
+    "title": "Facilitating nursing students’ skill training in distance education via online game-based learning with the watch-summarize-question approach during the COVID-19 pandemic: A quasi-experimental study",
+    "section": "Results",
+    "text": "Results\n\nLearning AchievementSelf-EfficacyEngagement & Satisfaction\n\n\n\nExperimental group had significantly higher posttest scores (Adjusted Mean: 90.97) vs. control (64.40).\nClear benefits observed from interactive, task-based game learning combined with reflection and questioning.\n\n\n\n\nHigher confidence levels in the experimental group (Mean: 4.74 vs. 3.84).\nAttributed to active participation, peer interaction, and repeated practice opportunities.\n\n\n\n\nStudents using OGBL + WSQ showed greater learning engagement and satisfaction.\nIncreased interaction, competition, and scenario-based challenges contributed to improved outcomes.",
     "crumbs": [
-      "Contents:",
+      "Single Studies",
       "Matischek Study"
     ]
   },
   {
     "objectID": "docs/matischek_study.html#discussion",
     "href": "docs/matischek_study.html#discussion",
-    "title": "Matischek study",
-    "section": "",
-    "text": "Important\n\n\n\nThe integration of OGBL and WSQ: - Encouraged deep learning and critical thinking. - Fostered collaboration and student interaction, which are often missing in remote settings. - Supported self-regulated learning through structured reflection and peer discussion.\n\n\nThis model not only improved short-term outcomes in sputum suction training but also showed potential for broader application in nursing education.",
+    "title": "Facilitating nursing students’ skill training in distance education via online game-based learning with the watch-summarize-question approach during the COVID-19 pandemic: A quasi-experimental study",
+    "section": "Discussion",
+    "text": "Discussion\n\n\n\n\n\n\nImportant\n\n\n\nThe integration of OGBL and WSQ: - Encouraged deep learning and critical thinking. - Fostered collaboration and student interaction, which are often missing in remote settings. - Supported self-regulated learning through structured reflection and peer discussion.\n\n\nThis model not only improved short-term outcomes in sputum suction training but also showed potential for broader application in nursing education.",
     "crumbs": [
-      "Contents:",
+      "Single Studies",
       "Matischek Study"
     ]
   },
   {
     "objectID": "docs/matischek_study.html#conclusion-recommendations",
     "href": "docs/matischek_study.html#conclusion-recommendations",
-    "title": "Matischek study",
-    "section": "",
-    "text": "Warning\n\n\n\nWhile the results were promising, the study notes: - Resource demands for game development and scenario design. - Small sample size and short duration limit generalizability.\nRecommendations: - Use free platforms like Gather for small groups. - Collaborate with tech experts for game design. - Consider applying the same model to other nursing procedures or interprofessional training.",
+    "title": "Facilitating nursing students’ skill training in distance education via online game-based learning with the watch-summarize-question approach during the COVID-19 pandemic: A quasi-experimental study",
+    "section": "Conclusion & Recommendations",
+    "text": "Conclusion & Recommendations\n\n\n\n\n\n\nWarning\n\n\n\nWhile the results were promising, the study notes: - Resource demands for game development and scenario design. - Small sample size and short duration limit generalizability.\nRecommendations: - Use free platforms like Gather for small groups. - Collaborate with tech experts for game design. - Consider applying the same model to other nursing procedures or interprofessional training.",
     "crumbs": [
-      "Contents:",
+      "Single Studies",
       "Matischek Study"
     ]
   },
   {
     "objectID": "docs/matischek_study.html#critique",
     "href": "docs/matischek_study.html#critique",
-    "title": "Matischek study",
-    "section": "",
-    "text": "Missing information:\n\n\npaper based learning sheet\nintervention medium (desktop or mobile?)\ngather environment\ncronbachs alpha values\ndescriptive Statistics + baseline comparison\n\n\nMissing third/fourth group (WSQ without gather/ gather without WSQ)\nNot Open-Science (no Pre-Registration, no Open-Data)",
+    "title": "Facilitating nursing students’ skill training in distance education via online game-based learning with the watch-summarize-question approach during the COVID-19 pandemic: A quasi-experimental study",
+    "section": "Critique",
+    "text": "Critique\n\nMissing information:\n\n\npaper based learning sheet\nintervention medium (desktop or mobile?)\ngather environment\ncronbachs alpha values\ndescriptive Statistics + baseline comparison\n\n\nMissing third/fourth group (WSQ without gather/ gather without WSQ)\nNot Open-Science (no Pre-Registration, no Open-Data)",
     "crumbs": [
-      "Contents:",
+      "Single Studies",
       "Matischek Study"
     ]
   },
@@ -275,8 +260,8 @@
     "section": "",
     "text": "In this study, Wang et al. (2018) explored how a microworld-based role-playing game could help elementary school students learn mathematics more effectively and enjoyably. The researchers developed a digital game called “Speedy World”, which was focused about a sixth-grade math unit on speed. The authors wanted to investigate if students who learned with the microworld-based gaming approach have significantly higher/better outcomes in Learning Achievement, Learning Motivation and Technology Acceptance compared to those who learned with the conventional technology enhanced learning approach.",
     "crumbs": [
-      "Contents:",
-      "Obrist Study"
+      "Single Studies",
+      "Study Obrist"
     ]
   },
   {
@@ -286,8 +271,8 @@
     "section": "",
     "text": "In this study, Wang et al. (2018) explored how a microworld-based role-playing game could help elementary school students learn mathematics more effectively and enjoyably. The researchers developed a digital game called “Speedy World”, which was focused about a sixth-grade math unit on speed. The authors wanted to investigate if students who learned with the microworld-based gaming approach have significantly higher/better outcomes in Learning Achievement, Learning Motivation and Technology Acceptance compared to those who learned with the conventional technology enhanced learning approach.",
     "crumbs": [
-      "Contents:",
-      "Obrist Study"
+      "Single Studies",
+      "Study Obrist"
     ]
   },
   {
@@ -297,8 +282,8 @@
     "section": "How did their game work?",
     "text": "How did their game work?\nThe game was based on the classic story of The Tortoise and the Hare. Students took on the role of the tortoise, adjusting speed and time inputs in a simulated race to beat the hare. Through this interactive and explorative microworld, students could experiment, learn by doing, and solve practical problems in a gamified environment.",
     "crumbs": [
-      "Contents:",
-      "Obrist Study"
+      "Single Studies",
+      "Study Obrist"
     ]
   },
   {
@@ -308,8 +293,8 @@
     "section": "How did they do it?",
     "text": "How did they do it?\nTo test its effectiveness, the researchers conducted a quasi-experiment with 107 sixth graders in Taiwan. Half of the students used the microworld-based game, while the other half learned through a conventional technology-enhanced approach—a more structured, non-interactive online learning platform. Regarding the procedure, the students first got an introduction to the “speed” unit, then the pre-tests and pre-questionnaires followed. After this they got an introduction to the learning activities and then separated into the two groups. At the end post-tests and post-questionnaires were deployed. Pre- and post-learning performance tests were developed by two teachers with many years of experience. To investigate the Learning Motivation they adopted a questionnaire developed by Hwang and Chang (2011) and for the Technology Acceptance questionnaire the authors adopted the work from Hwang et al. (2013).",
     "crumbs": [
-      "Contents:",
-      "Obrist Study"
+      "Single Studies",
+      "Study Obrist"
     ]
   },
   {
@@ -319,8 +304,8 @@
     "section": "Results",
     "text": "Results\nThe authors could find significant results. Students in the game-based group showed higher Learning Achievement (table 1), greater Learning Motivation (table 2), and stronger technology acceptance (table 3). They not only performed better on post-tests, but also rated the system as easier and more useful than students who used a conventional technology enhanced learning approach.\nTable 1. One-way ANCOVA Results for Mathematics Learning Achievement\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup\nN\nMean\nSD\nAdjusted Mean\nAdjusted SD\nF\nη²\n\n\n\n\nExperimental group\n52\n75.96\n14.81\n76.00\n2.15\n4.38*\n0.27\n\n\nControl group\n55\n69.78\n20.34\n69.75\n2.09\n\n\n\n\n\n* p &lt; .05\n\nTable 2. One-way ANCOVA Results for Mathematics Learning Motivation\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup\nN\nMean\nSD\nAdjusted Mean\nAdjusted SD\nF\nη²\n\n\n\n\nExperimental group\n52\n4.87\n0.92\n4.87\n2.15\n8.64*\n0.45\n\n\nControl group\n55\n4.43\n1.12\n4.43\n2.09\n\n\n\n\n\n* p &lt; .05\n\nTable 3. t-Test Results for Post-Questionnaire Technology Acceptance Scores\n\n\n\n\n\n\n\n\n\n\n\nMeasure\nGroup\nN\nMean\nSD\nt\n\n\n\n\nPerceived usefulness\nExperimental group\n52\n3.32\n0.49\n6.11***\n\n\n\nControl group\n55\n2.77\n0.45\n\n\n\nPerceived ease of use\nExperimental group\n52\n3.33\n0.50\n5.28***\n\n\n\nControl group\n55\n2.77\n0.59\n\n\n\n\n*** p &lt; .001",
     "crumbs": [
-      "Contents:",
-      "Obrist Study"
+      "Single Studies",
+      "Study Obrist"
     ]
   },
   {
@@ -330,8 +315,8 @@
     "section": "Why is it relevant?",
     "text": "Why is it relevant?\nThis study highlights the potential of well-designed educational games, especially those rooted in microworlds and storytelling, to make math learning more engaging and effective.Their findings are also consistent with prior work (Mayer et al., 2003; Chen & Hwang, 2014). Furthermore, stakeholders like teachers and game developers can look at this study to see how narrative-driven, interactive learning environments can significantly improve students’ motivation and performance when learning mathematics.",
     "crumbs": [
-      "Contents:",
-      "Obrist Study"
+      "Single Studies",
+      "Study Obrist"
     ]
   },
   {
@@ -341,16 +326,56 @@
     "section": "",
     "text": "The effect of educational mobile games on learning performance: a meta-analysis and research synthesis\nour article was published in the journal Interactive Learning Environments\nInteractive Learning Environments is a well-regarded international peer-reviewed journal focused on educational technology and learning sciences. It is published by Taylor & Francis and covers a broad spectrum of topics such as interactive learning systems, online education, virtual classrooms, and instructional design.",
     "crumbs": [
-      "Contents:",
+      "Meta analysis",
       "Summary"
     ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Metaanalysis-website",
+    "title": "Metaanalysis-website – Matischek & Obrist",
     "section": "",
-    "text": "This site is just the starting page of the Website :)\n\n\n\n\n\n\nWARNING\n\n\n\n\n\n\nhow to use the glossary:\n\npower\n\nBenchmark Website",
+    "text": "Want to know more? About Page",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#what-the-heck-is-a",
+    "href": "index.html#what-the-heck-is-a",
+    "title": "Metaanalysis-website – Matischek & Obrist",
+    "section": "What the heck is a meta-analysis?",
+    "text": "What the heck is a meta-analysis?",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-website",
+    "href": "index.html#how-to-use-this-website",
+    "title": "Metaanalysis-website – Matischek & Obrist",
+    "section": "How to Use This Website",
+    "text": "How to Use This Website\n\nUse the sidebar to navigate through the meta-analysis summary, individual studies, glossary, and about page.\nUse the search bar in the sidebar to quickly find content.\nGlossary terms are highlighted throughout the site — hover over them to see definitions - click on them to get to the Glossary",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#navigation",
+    "href": "index.html#navigation",
+    "title": "Metaanalysis-website – Matischek & Obrist",
+    "section": "Navigation",
+    "text": "Navigation\n\nMeta analysis\n\nMeta-Analysis Summary — Overview of the meta-analysis results and methodology.\nMeta-Analysis Review — Detailed review of the meta-analysis.\nMeta-Analysis Rating Sheet — Tool for rating studies (if available).\n\nSingle Studies\n\nStudy Matischek\nStudy Obrist\n\nGlossary — Definitions of key terms used throughout the site.\nAbout Page — Learn more about the project and contributors.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#selected-studies",
+    "href": "index.html#selected-studies",
+    "title": "Metaanalysis-website – Matischek & Obrist",
+    "section": "Selected Studies",
+    "text": "Selected Studies\n\nMeta-Analysis Chosen:\nAhmed Tlili, Michael Agyemang Adarkwah, Soheil Salha, Juan Garzón, Kinshuk & Daniel Burgos (2024)\nThe effect of educational mobile games on learning performance: a meta-analysis and research synthesis, Interactive Learning Environments, 32:10, 7278-7300, DOI: 10.1080/10494820.2024.2310135\n\n\nIndividual Studies Selected:\n\nChang, C. Y., Chung, M. H., & Yang, J. C. (2022)\nFacilitating nursing students’ skill training in distance education via online game-based learning with the watch-summarize-question approach during the COVID-19 pandemic: A quasi-experimental study. Nurse Education Today, 109, 105256. https://doi.org/10.1016/j.nedt.2021.105256\nWang, S. Y., Chang, S. C., Hwang, G. J., & Chen, P. Y. (2018)\nA microworld-based role-playing game development approach to engaging students in interactive, enjoyable, and effective mathematics learning. Interactive Learning Environments, 26(3), 411–423.\nhttps://doi.org/10.1080/10494820.2017.1337038",
     "crumbs": [
       "Overview"
     ]

@@ -1,5 +1,16 @@
 /* css styles */
 
+body {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+/* Überschreibe Farben, Links, Panels etc. */
+.panel {
+  background-color: #1e1e1e;
+  border-color: #3399ff;
+}
+
 :root {
   --primary-color: #007bff;
   --primary-color-dark: #0056b3;
