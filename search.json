@@ -174,18 +174,7 @@
     "href": "about.html",
     "title": "David Matischek",
     "section": "",
-    "text": "Text about me",
-    "crumbs": [
-      "Contents:",
-      "About Page"
-    ]
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "David Matischek",
-    "section": "Education",
-    "text": "Education\nmy education",
+    "text": "Text about me\nmy education",
     "crumbs": [
       "Contents:",
       "About Page"
@@ -207,18 +196,73 @@
     "href": "docs/matischek_study.html",
     "title": "Matischek study",
     "section": "",
-    "text": "{{&lt; Ching-Yi Chang &gt;}}\nMin-Huey Chung Jie Chi Yang\nall from Tapei Taiwan\n\n\nin the methods part it was stated that the game was very good and encuraged engagement -&gt; should not be in the methods part\nno information about the control group stimuli -&gt; same videos as experimental group?, what was on the paper-based learning sheets? (same questions as in the game?) –&gt; in discussion dann: „only needed to watch the video to collect information to answer individual questions on the learning sheet.“\ncronbachs alpha was only assesed one time for each questionaire -&gt; 12 cronbachs alpha would have been needed!, also not clear if it is overall or on pre- or on post!\nno descriptoives in the results -&gt; no Plot!\nno baseline comaprisson -&gt; assumption for ANCOVA!!! (i have to check if this really is an assumption for ANCOVA)\ni would have liked a mixed ANOVA better, there you would have the baseline comparison (at least for the DV)\n\n\n\nyt-video\n\n\nwtf",
+    "text": "Ching-Yi Chang, Min-Huey Chung, Jie Chi Yang\n\n\n\n\n\n\n\n\nNote\n\n\n\nStudy Focus\nThis study investigates the effectiveness of integrating online game-based learning (OGBL) with the watch-summarize-question (WSQ) strategy to enhance skill acquisition in nursing students learning sputum suction techniques during remote education.\n\n\n\n\n\nThe COVID-19 pandemic forced a shift to online education, raising concerns over how to teach practical, hands-on clinical skills.\nSputum suction is a critical nursing skill that, if performed incorrectly, can pose serious risks to patients.\nTraditional video-based methods lack the interactivity and engagement necessary for effective skill training.\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nDesign: Quasi-experimental pretest-posttest design\nParticipants: 45 first-year nursing students\nGroups: - Experimental group: Online game-based learning + WSQ strategy (n = 21) - Control group: Traditional video-based learning (n = 24)\nPlatform Used: Gather.town – a virtual interactive environment\n\n\n\nyt-video\n\n\nDuration: Two weeks (2 sessions × 100 minutes)\n\n\n\n\n\n\n\nLearning AchievementSelf-EfficacyEngagement & Satisfaction\n\n\n\nExperimental group had significantly higher posttest scores (Adjusted Mean: 90.97) vs. control (64.40).\nClear benefits observed from interactive, task-based game learning combined with reflection and questioning.\n\n\n\n\nHigher confidence levels in the experimental group (Mean: 4.74 vs. 3.84).\nAttributed to active participation, peer interaction, and repeated practice opportunities.\n\n\n\n\nStudents using OGBL + WSQ showed greater learning engagement and satisfaction.\nIncreased interaction, competition, and scenario-based challenges contributed to improved outcomes.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nThe integration of OGBL and WSQ: - Encouraged deep learning and critical thinking. - Fostered collaboration and student interaction, which are often missing in remote settings. - Supported self-regulated learning through structured reflection and peer discussion.\n\n\nThis model not only improved short-term outcomes in sputum suction training but also showed potential for broader application in nursing education.\n\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nWhile the results were promising, the study notes: - Resource demands for game development and scenario design. - Small sample size and short duration limit generalizability.\nRecommendations: - Use free platforms like Gather for small groups. - Collaborate with tech experts for game design. - Consider applying the same model to other nursing procedures or interprofessional training.\n\n\n\n\n\n\nMissing information:\n\n\npaper based learning sheet\nintervention medium (desktop or mobile?)\ngather environment\ncronbachs alpha values\ndescriptive Statistics + baseline comparison\n\n\nMissing third/fourth group (WSQ without gather/ gather without WSQ)\nNot Open-Science (no Pre-Registration, no Open-Data)",
     "crumbs": [
       "Contents:",
       "Matischek Study"
     ]
   },
   {
-    "objectID": "docs/matischek_study.html#critic",
-    "href": "docs/matischek_study.html#critic",
+    "objectID": "docs/matischek_study.html#summary-enhancing-nursing-skill-training-via-game-based-learning",
+    "href": "docs/matischek_study.html#summary-enhancing-nursing-skill-training-via-game-based-learning",
     "title": "Matischek study",
     "section": "",
-    "text": "in the methods part it was stated that the game was very good and encuraged engagement -&gt; should not be in the methods part\nno information about the control group stimuli -&gt; same videos as experimental group?, what was on the paper-based learning sheets? (same questions as in the game?) –&gt; in discussion dann: „only needed to watch the video to collect information to answer individual questions on the learning sheet.“\ncronbachs alpha was only assesed one time for each questionaire -&gt; 12 cronbachs alpha would have been needed!, also not clear if it is overall or on pre- or on post!\nno descriptoives in the results -&gt; no Plot!\nno baseline comaprisson -&gt; assumption for ANCOVA!!! (i have to check if this really is an assumption for ANCOVA)\ni would have liked a mixed ANOVA better, there you would have the baseline comparison (at least for the DV)\n\n\n\nyt-video\n\n\nwtf",
+    "text": "Note\n\n\n\nStudy Focus\nThis study investigates the effectiveness of integrating online game-based learning (OGBL) with the watch-summarize-question (WSQ) strategy to enhance skill acquisition in nursing students learning sputum suction techniques during remote education.\n\n\n\n\n\nThe COVID-19 pandemic forced a shift to online education, raising concerns over how to teach practical, hands-on clinical skills.\nSputum suction is a critical nursing skill that, if performed incorrectly, can pose serious risks to patients.\nTraditional video-based methods lack the interactivity and engagement necessary for effective skill training.",
+    "crumbs": [
+      "Contents:",
+      "Matischek Study"
+    ]
+  },
+  {
+    "objectID": "docs/matischek_study.html#methodology",
+    "href": "docs/matischek_study.html#methodology",
+    "title": "Matischek study",
+    "section": "",
+    "text": "Tip\n\n\n\nDesign: Quasi-experimental pretest-posttest design\nParticipants: 45 first-year nursing students\nGroups: - Experimental group: Online game-based learning + WSQ strategy (n = 21) - Control group: Traditional video-based learning (n = 24)\nPlatform Used: Gather.town – a virtual interactive environment\n\n\n\nyt-video\n\n\nDuration: Two weeks (2 sessions × 100 minutes)",
+    "crumbs": [
+      "Contents:",
+      "Matischek Study"
+    ]
+  },
+  {
+    "objectID": "docs/matischek_study.html#results",
+    "href": "docs/matischek_study.html#results",
+    "title": "Matischek study",
+    "section": "",
+    "text": "Learning AchievementSelf-EfficacyEngagement & Satisfaction\n\n\n\nExperimental group had significantly higher posttest scores (Adjusted Mean: 90.97) vs. control (64.40).\nClear benefits observed from interactive, task-based game learning combined with reflection and questioning.\n\n\n\n\nHigher confidence levels in the experimental group (Mean: 4.74 vs. 3.84).\nAttributed to active participation, peer interaction, and repeated practice opportunities.\n\n\n\n\nStudents using OGBL + WSQ showed greater learning engagement and satisfaction.\nIncreased interaction, competition, and scenario-based challenges contributed to improved outcomes.",
+    "crumbs": [
+      "Contents:",
+      "Matischek Study"
+    ]
+  },
+  {
+    "objectID": "docs/matischek_study.html#discussion",
+    "href": "docs/matischek_study.html#discussion",
+    "title": "Matischek study",
+    "section": "",
+    "text": "Important\n\n\n\nThe integration of OGBL and WSQ: - Encouraged deep learning and critical thinking. - Fostered collaboration and student interaction, which are often missing in remote settings. - Supported self-regulated learning through structured reflection and peer discussion.\n\n\nThis model not only improved short-term outcomes in sputum suction training but also showed potential for broader application in nursing education.",
+    "crumbs": [
+      "Contents:",
+      "Matischek Study"
+    ]
+  },
+  {
+    "objectID": "docs/matischek_study.html#conclusion-recommendations",
+    "href": "docs/matischek_study.html#conclusion-recommendations",
+    "title": "Matischek study",
+    "section": "",
+    "text": "Warning\n\n\n\nWhile the results were promising, the study notes: - Resource demands for game development and scenario design. - Small sample size and short duration limit generalizability.\nRecommendations: - Use free platforms like Gather for small groups. - Collaborate with tech experts for game design. - Consider applying the same model to other nursing procedures or interprofessional training.",
+    "crumbs": [
+      "Contents:",
+      "Matischek Study"
+    ]
+  },
+  {
+    "objectID": "docs/matischek_study.html#critique",
+    "href": "docs/matischek_study.html#critique",
+    "title": "Matischek study",
+    "section": "",
+    "text": "Missing information:\n\n\npaper based learning sheet\nintervention medium (desktop or mobile?)\ngather environment\ncronbachs alpha values\ndescriptive Statistics + baseline comparison\n\n\nMissing third/fourth group (WSQ without gather/ gather without WSQ)\nNot Open-Science (no Pre-Registration, no Open-Data)",
     "crumbs": [
       "Contents:",
       "Matischek Study"
