@@ -18,9 +18,7 @@ website:
     contents: 
       - text: "Overview"
         href: index.qmd
-      - text: "to-do"
-        href: todo.qmd   
-      - section: "Contents:"
+      - section: "Meta analysis"
         contents:
         - text: "About Page"
           href: about.qmd
@@ -29,10 +27,13 @@ website:
         - text: "Meta-Analysis Review"
           href: docs/meta_review.qmd
         - text: "Meta-Analysis Rating Sheet"
+      - section: "Single Studies"
+        contents:
+        - text: "Study Matischek"
           href: docs/rating_sheet.qmd
         - text: "Matischek Study"
           href: docs/matischek_study.qmd
-        - text: "Obrist Study"
+        - text: "Study Obrist"
           href: docs/obrist_study.qmd
 
 
