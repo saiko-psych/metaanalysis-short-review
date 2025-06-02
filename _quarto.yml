@@ -5,7 +5,7 @@ project:
 website: 
   page-navigation: true
   favicon: img/icon.png
-  reader-mode: true
+  reader-mode: false
   title: "Metaanalysis Website"
   sidebar:
     title: Metaanalysis Website
