@@ -1,10 +1,30 @@
 /* css styles */
 
+:root {
+  --primary-color: #007bff;
+  --primary-color-dark: #0056b3;
+  --background-light: #f8faff;
+  --text-color: #212529;
+  --link-color: #004085;
+  --link-hover-color: #002752;
+  --border-color: var(--primary-color);
+}
+
+:root[data-theme="dark"] {
+  --primary-color: #339af0;       /* etwas helleres Blau für Dark Mode */
+  --primary-color-dark: #66b2ff;
+  --background-light: #121212;
+  --text-color: #e1e1e1;
+  --link-color: #80bdff;
+  --link-hover-color: #a6d1ff;
+  --border-color: var(--primary-color);
+}
+
 
 button.glossary {
   background-color: transparent;
   border: none;
-  color: #148f77;        
+  color: var(--primary-color-dark);   /* dunkel-türkis / dein Akzent */
   font-weight: 600;
   cursor: pointer;
   padding: 0;
@@ -12,9 +32,33 @@ button.glossary {
 }
 
 button.glossary:hover {
-  color: #40E0D0;        
+  color: var(--link-hover-color);     /* heller/türkiser Hover */
   text-decoration: underline;
   font-size: 1em;
-  transition: color 0.2s ease;
 }
 
+
+
+.panel {
+  border: 1.5px solid #007bff; /* Bootstrap primary blue */
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 2rem;
+  background-color: #f8faff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.panel h2 {
+  color: #0056b3;
+  margin-top: 0;
+}
+
+.panel a {
+  color: #004085;
+  text-decoration: underline;
+}
+
+.panel a:hover {
+  color: #002752;
+  text-decoration: none;
+}

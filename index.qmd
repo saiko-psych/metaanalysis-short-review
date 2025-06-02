@@ -1,5 +1,5 @@
 ---
-title: "Metaanalysis-website"
+title: "Metaanalysis-website -- Matischek & Obrist"
 
 format:
   html:
@@ -12,28 +12,103 @@ glossary:
   
 ---
 
+<div style="margin-top: 2cm;"></div>
 
+::: {.callout-note}
+This website was created as part of the university course  
+**"Topics in Cognitive Psychology: Psychological Interventions Using Digital Technologies"** at the **[{{< glossary "University of Graz" >}}](glossary.qmd#University of Graz) ** (Summer Semester 2025). 
 
-# Overview
+It was created using **[{{< glossary Quarto >}}](glossary.qmd#Quarto)**, and published on **[{{< glossary GitHub >}}](glossary.qmd#GitHub)**.
 
-This site is just the starting page of the Website :)
+The main goal is to **summarize and present a [{{< glossary meta-analysis >}}](glossary.qmd#meta-analysis)** conducted during the course.  
+Additionally, each participant selected an individual study from the meta-analysis and included it here.
 
-::: callout-warning
+This was our goal: [Benchmark Website](https://www.clearinghouse.edu.tum.de/spielbasiertes-lernen/spielbasiertes-lernen-und-motivation/){target="_blank"}
 
-# WARNING
-
-## UNDER CONSTRUCTION
 
 :::
 
-how to use the glossary: 
+<div style="margin-top: 2cm;"></div>
 
- - [{{< glossary power >}}](glossary.qmd#power)
-
-
+---
 
 
-[Benchmark Website](https://www.clearinghouse.edu.tum.de/spielbasiertes-lernen/spielbasiertes-lernen-und-motivation/)
+
+## What the heck is a [{{< glossary meta-analysis >}}](glossary.qmd#meta-analysis)?
+
+
+<br>
+
+{{< video https://www.youtube.com/watch?v=rg0L3Ridriw
+    title="Timothee Statistics"
+    start="0"
+    aspect-ratio="21x9" 
+>}}
+
+<br>
+
+
+
+---
+
+<div style="margin-top: 2cm;"></div>
+
+::: {.panel}
+## How to Use This Website
+
+- Use the sidebar to navigate through the meta-analysis summary, individual studies, glossary, and about page.
+- Use the search bar in the sidebar to quickly find content.
+- Glossary terms are highlighted throughout the site — hover over them to see definitions - click on them to get to the [Glossary](glossary.qmd)
+
+:::
+---
+
+<div style="margin-top: 2cm;"></div>
+
+## Navigation
+
+- Meta analysis
+  - [Meta-Analysis Summary](docs/short_summary.qmd) — Overview of the meta-analysis results and methodology.
+  - [Meta-Analysis Review](docs/meta_review.qmd) — Detailed review of the meta-analysis.
+  - [Meta-Analysis Rating Sheet](docs/meta_rating_sheet.qmd) — Tool for rating studies (if available).
+- Single Studies 
+  - [Study Matischek](docs/matischek_study.qmd)
+  - [Study Obrist](docs/obrist_study.qmd)
+- [Glossary](glossary.qmd) — Definitions of key terms used throughout the site.
+- [About Page](about.qmd) — Learn more about the project and contributors.
+
+---
+
+<div style="margin-top: 2cm;"></div>
+
+
+::: {.panel}
+
+
+## Selected Studies
+
+### Meta-Analysis Chosen:
+**Ahmed Tlili, Michael Agyemang Adarkwah, Soheil Salha, Juan Garzón, Kinshuk & Daniel Burgos (2024)**  
+*The effect of educational mobile games on learning performance: a meta-analysis and research synthesis,* Interactive Learning Environments, 32:10, 7278-7300, [DOI: 10.1080/10494820.2024.2310135](https://doi.org/10.1080/10494820.2024.2310135){target="_blank"}
+
+### Individual Studies Selected:
+
+- **Chang, C. Y., Chung, M. H., & Yang, J. C. (2022)**  
+  Facilitating nursing students’ skill training in distance education via online game-based learning with the watch-summarize-question approach during the COVID-19 pandemic: A quasi-experimental study. *Nurse Education Today, 109*, 105256. [https://doi.org/10.1016/j.nedt.2021.105256](https://doi.org/10.1016/j.nedt.2021.105256){target="_blank"}
+
+- **Wang, S. Y., Chang, S. C., Hwang, G. J., & Chen, P. Y. (2018)**  
+  A microworld-based role-playing game development approach to engaging students in interactive, enjoyable, and effective mathematics learning. *Interactive Learning Environments, 26(3)*, 411–423.  
+  [https://doi.org/10.1080/10494820.2017.1337038](https://doi.org/10.1080/10494820.2017.1337038){target="_blank"}
+
+
+:::
+
+---
+
+<div style="margin-top: 2cm;"></div>
+
+Want to know more? [About Page](about.qmd)
+
 
 
 

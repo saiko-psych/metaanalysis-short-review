@@ -1,11 +1,51 @@
-power: |
-  The probability of rejecting the null hypothesis when it is false, for a specific analysis, effect size, sample size, and criteria for significance.
-  
-  See [Equivalence Testing for Psychological Research](https://debruine.github.io/glossary/articles/glossary.html) for a tutorial on methods for choosing an SESOI.
-  
-wtf: |
-  slang for what se fuick
-  
-Ching-Yi Chan: |
-  A researcher who has contributed to the field of psychology, particularly in the area of statistical methods and data analysis.
-  See [Ching-Yi Chan's work](https://debruine.github.io/glossary/articles/glossary.html) for more information.
+ANCOVA: |
+  Analysis of Covariance, a statistical method that combines ANOVA and regression to control for the effects of continuous covariates.
+
+COVID-19: |
+  Coronavirus Disease 2019, a contagious respiratory illness caused by the SARS-CoV-2 virus, which led to a global pandemic starting in 2019.
+
+Effect-size: |
+  A quantitative measure of the magnitude of a phenomenon or relationship in a study, independent of sample size.  
+  Common metrics include Cohen's d, Hedges' g, and correlation coefficients.
+
+GitHub: |
+  A web-based platform for version control and collaboration using Git.  
+  This website is published and maintained on GitHub.  
+  Visit [GitHub](https://github.com){target="_blank"} for more information.
+
+Hedges-g: |
+  A measure of effect size that corrects for small sample bias, similar to Cohen's d but with an adjustment for sample size.  
+  Often used in meta-analyses to estimate standardized mean differences.
+
+Meta-analysis: |
+  A statistical method that combines results from multiple independent studies to identify overall trends and effect sizes.  
+  It increases statistical power and generalizability of findings.
+
+Quarto: |
+  An open-source scientific and technical publishing system used to create this website.  
+  Learn more about Quarto at [quarto.org](https://quarto.org){target="_blank"}.
+
+quasi-experiment: |
+  An empirical study that resembles an experimental design but lacks random assignment to conditions, limiting causal inference.
+
+Role-playing-game: |
+  A type of game where participants assume the roles of characters and collaboratively create stories or scenarios, often used in psychological interventions for experiential learning.
+
+self-efficacy: |
+  An individual's belief in their ability to successfully perform specific tasks or behaviors, influencing motivation and persistence.
+
+significant: |
+  In statistics, refers to a result unlikely to have occurred by chance, according to a predefined threshold (usually p < .05).
+
+Sputum-suction: |
+  A medical procedure to remove mucus and secretions from the respiratory tract, often used in patients with respiratory difficulties.
+
+t-test: |
+  A statistical test used to compare the means of two groups to determine if they are significantly different from each other.
+
+University of Graz: |
+  A major Austrian university located in Graz, known for research and teaching in psychology and cognitive sciences.  
+  Website: [unigraz.at](https://www.uni-graz.at){target="_blank"}
+
+Watch-Summarize Question (WEQ): |
+  A cognitive learning strategy involving watching a video or presentation and then summarizing the key points or answering questions to enhance understanding and retention.

@@ -20,8 +20,6 @@ website:
         href: index.qmd
       - section: "Meta analysis"
         contents:
-        - text: "About Page"
-          href: about.qmd
         - text: "Summary"
           href: docs/short_summary.qmd
         - text: "Meta-Analysis Review"
@@ -35,6 +33,10 @@ website:
           href: docs/matischek_study.qmd
         - text: "Study Obrist"
           href: docs/obrist_study.qmd
+      - text: "Glossary"
+        href: glossary.qmd
+      - text: "About Page"
+        href: about.qmd
 
 
 execute:
@@ -42,8 +44,8 @@ execute:
 
 format:
   html:
-    theme: flatly
-    css: styles.css
+    css:
+      - styles.css
     toc: true
 
     

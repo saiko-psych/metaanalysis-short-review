@@ -1,5 +1,10 @@
 ---
 title: "A microworld-based role-playing game development approach to engaging students in interactive, enjoyable, and effective mathematics learning by Wang et al. (2018)"
+
+glossary:
+  path: glossary.yml
+  popup: hover
+  show: true
 ---
 
 
