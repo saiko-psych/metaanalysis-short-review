@@ -30,8 +30,8 @@
     "section": "",
     "text": "The authors provide a well-structured overview of previous research on educational mobile games. They explain their reasoning for conducting their meta-analysis by addressing the research gap in the field. Earlier studies focused either on specific subjects (like language learning or STEM) or on digital educational games without isolating the mobile component. They also mention that earlier work focused on motivation rather than direct learning performance. By reviewing several recent meta-analyses (e.g., Tsai & Tsai, 2020; Wang et al., 2022) and looking at various confounding factors that might moderate the effects of educational mobile games, as hinted by prior work from various researchers (e.g., Chen et al., 2020; Huizenga et al., 2009; Tsai & Tsai, 2018), the authors make a strong case to investigate this topic further.\nFulfilled: 95%",
     "crumbs": [
-      "Single Studies",
-      "Study Matischek"
+      "Meta analysis",
+      "Meta-Analysis Rating Sheet"
     ]
   },
   {
@@ -41,8 +41,8 @@
     "section": "",
     "text": "The authors provide a well-structured overview of previous research on educational mobile games. They explain their reasoning for conducting their meta-analysis by addressing the research gap in the field. Earlier studies focused either on specific subjects (like language learning or STEM) or on digital educational games without isolating the mobile component. They also mention that earlier work focused on motivation rather than direct learning performance. By reviewing several recent meta-analyses (e.g., Tsai & Tsai, 2020; Wang et al., 2022) and looking at various confounding factors that might moderate the effects of educational mobile games, as hinted by prior work from various researchers (e.g., Chen et al., 2020; Huizenga et al., 2009; Tsai & Tsai, 2018), the authors make a strong case to investigate this topic further.\nFulfilled: 95%",
     "crumbs": [
-      "Single Studies",
-      "Study Matischek"
+      "Meta analysis",
+      "Meta-Analysis Rating Sheet"
     ]
   },
   {
@@ -52,8 +52,8 @@
     "section": "2. Study Selection",
     "text": "2. Study Selection\nThe study outlines its inclusion and exclusion criteria clearly and follows the PRISMA method. The database search is broad, covering several academic databases (ACM Library, Google Scholar, IEEE Xplore, Science Direct, Scopus, Taylor & Francis, and Web of Science.) with detailed Boolean terms. The authors only included peer reviewed papers and the justification for the timeframe (2013–2023) is grounded in the literature on mobile learning phases (Cochrane, 2013). From an initial pool of 2,461 studies, 38 were included after applying the screening steps. However, our review raises concerns about how consistently the selection criteria were applied. After manually looking at the included studies, a small number of studies do not clearly specify the platform used, and several other studies show signs of using desktop environments rather than mobile devices. One study used an Xbox Kinect, which falls outside most definitions of mobile learning. These inconsistencies could suggest that some decisions during the selection process may not fully align with the study’s stated focus on mobile games or that the authors had more information at hand than we could gather from a simple reading of the papers.\nFulfilled: 60%",
     "crumbs": [
-      "Single Studies",
-      "Study Matischek"
+      "Meta analysis",
+      "Meta-Analysis Rating Sheet"
     ]
   },
   {
@@ -63,8 +63,8 @@
     "section": "3. Data Extraction and Coding",
     "text": "3. Data Extraction and Coding\nThe authors present a detailed and transparent coding scheme. Moderator variables, such as level of education, field of education, device type, learning setting, and intervention period, are all clearly defined and coded. Two authors conducted the coding of all the included papers, disagreements in coding, if any, were discussed and resolved.\nFulfilled: 95%",
     "crumbs": [
-      "Single Studies",
-      "Study Matischek"
+      "Meta analysis",
+      "Meta-Analysis Rating Sheet"
     ]
   },
   {
@@ -74,8 +74,8 @@
     "section": "4. Statistical Analysis",
     "text": "4. Statistical Analysis\nThe statistical methods used are appropriate and clearly reported. The authors calculate effect sizes using Hedges’ g, assess heterogeneity using I², and check for publication bias with funnel plots, regression, and the trim-and-fill method. Subgroup and moderator analyses are performed across multiple dimensions. A limitation, however, lies in the subgroup results that are based on only one study. While this is acknowledged in the limitations section, these single-study interactions are presented in the same way as more robust categories, which could give a misleading impression of their generalizability. This slightly weakens the strength of conclusions drawn from those comparisons.\nFulfilled: 85%",
     "crumbs": [
-      "Single Studies",
-      "Study Matischek"
+      "Meta analysis",
+      "Meta-Analysis Rating Sheet"
     ]
   },
   {
@@ -85,8 +85,8 @@
     "section": "Overall Evaluation",
     "text": "Overall Evaluation\nTlili et al. (2024) present a relevant meta-analysis focusing on educational mobile games, a topic still underrepresented in prior research. The study is conceptually strong and offers detailed insights into how different types of mobile games perform in different educational contexts. Its main limitations are found with the selection criteria and the small sample sizes in certain subgroup comparisons. These affect the reliability of a few specific findings but do not undermine the overall contribution. The study is well executed and provides a solid foundation for future research in this area.\nAverage Fulfillment Across Categories: 84%",
     "crumbs": [
-      "Single Studies",
-      "Study Matischek"
+      "Meta analysis",
+      "Meta-Analysis Rating Sheet"
     ]
   },
   {
@@ -97,7 +97,7 @@
     "text": "We reviewed the meta-analysis by Tlili et al. (2024) using the five evaluation criteria proposed by Abelson (1995), to assess the quality and significance of the meta-analysis.",
     "crumbs": [
       "Meta analysis",
-      "Meta-Analysis Review"
+      "MAGIC Review"
     ]
   },
   {
@@ -108,7 +108,7 @@
     "text": "1. How substantial are the effects? (Magnitude)\nThe meta-analysis reports a large overall effect size (g = 0.97), suggesting that educational mobile games have a significant positive effect on learning performance. Puzzle games showed the strongest impact (g = 1.32), with other genres like role-playing (g = 0.85), adventure games (g = 0.65), and action games (g = 0.71), also showing moderate to large effect sizes. The overall effects are both statistically and practically important and strengthen the case for game-based approaches in education.",
     "crumbs": [
       "Meta analysis",
-      "Meta-Analysis Review"
+      "MAGIC Review"
     ]
   },
   {
@@ -119,7 +119,7 @@
     "text": "2. How nuanced are the findings? (Articulation)\nThe meta-analysis from Tlili et al. (2024) focuses a large part on the detailed exploration of moderator variables. The authors analyze effects across a wide range of factors, including field of education, education level, learning setting, device type, intervention duration. These distinctions provide valuable insight into when and how mobile games are most effective. The study’s relevance for educational practice is increased by the structured approach to moderator analysis, which allows differentiated conclusions rather than general recommendations.",
     "crumbs": [
       "Meta analysis",
-      "Meta-Analysis Review"
+      "MAGIC Review"
     ]
   },
   {
@@ -130,7 +130,7 @@
     "text": "3. How generalizable are the findings? (Generalizability)\nThe study includes 38 primary studies covering a wide variety of fields and educational levels, which supports the goal of offering broad, generalizable insights. However, one limitation is the number of studies that go into certain subgroup analyses. In several cases, reported interactions, such as specific combinations of game genres and moderators, are based on only a single study. For example, the strong effect of puzzle games in the field of education “social sciences, journalism, and information” category is drawn from just one data point. While these results are included transparently, the limited sample size in these subgroups reduces the reliability of those specific findings and means they should not be generalized without caution. To the authors credit, they mention this in their limitations.",
     "crumbs": [
       "Meta analysis",
-      "Meta-Analysis Review"
+      "MAGIC Review"
     ]
   },
   {
@@ -141,7 +141,7 @@
     "text": "4. What is the scientific relevance of the study? (Impact)\nThis is one of the first meta-analyses to focus specifically on educational mobile games, to understand their effect in education. It addresses a meaningful research gap by (i) examining education as a whole, rather than focusing on specific subjects like language learning or STEM, as in Su et al. (2021) and Gao et al. (2020); (ii) emphasizing learning performance rather than outcomes like motivation or knowledge gain, as seen in Schmitz et al. (2012); and (iii) concentrating specifically on mobile educational games, rather than just digital educational games as a whole. The study also offers theoretical and practical information, which makes it especially helpful for various stakeholders who are interested in how mobile technologies can enhance learning, such as educators, instructional designers, and policymakers.",
     "crumbs": [
       "Meta analysis",
-      "Meta-Analysis Review"
+      "MAGIC Review"
     ]
   },
   {
@@ -152,7 +152,7 @@
     "text": "5. How credible is the methodology? (Credibility)\nThe meta-analysis follows established standards for systematic reviews, using the PRISMA protocol and statistical methods like Hedges’ g, I², and multiple techniques for publication bias detection (funnel plots, Egger’s regression and trim-and-fill methods). The coding of moderators is systematic and well-documented. That said, a few of the included studies raise questions about alignment with the stated inclusion criteria. From our understanding and research, a small number of studies did not clearly specify the type of device used or appeared to involve desktop environments rather than mobile platforms. These cases could have been screened more carefully, and they slightly reduce confidence in the “mobile-specific” focus of the findings. A detailed review regarding the methodology can be found on the meta-analysis rating sheet page.",
     "crumbs": [
       "Meta analysis",
-      "Meta-Analysis Review"
+      "MAGIC Review"
     ]
   },
   {
@@ -163,7 +163,7 @@
     "text": "Conclusion for educational practice\nTlili et al. (2024) provide strong evidence that educational mobile games, especially puzzle-based ones, can positively influence student learning performance. The meta-analysis offers practical insights into what kinds of games work best, for which subjects, and under what conditions. At the same time, educators should keep in mind that some subgroup findings are based on very limited data, and that not all included studies were equally clear about the platform used. Still, the study is a valuable resource for guiding the use of mobile games in different educational contexts.",
     "crumbs": [
       "Meta analysis",
-      "Meta-Analysis Review"
+      "MAGIC Review"
     ]
   },
   {
@@ -203,7 +203,7 @@
     "href": "docs/matischek_study.html#methodology",
     "title": "Facilitating nursing students’ skill training in distance education via online game-based learning with the watch-summarize-question approach during the COVID-19 pandemic: A quasi-experimental study",
     "section": "Methodology",
-    "text": "Methodology\n\n\n\n\n\n\nTip\n\n\n\nDesign: Quasi-experimental pretest-posttest design\nParticipants: 45 first-year nursing students\nGroups: - Experimental group: Online game-based learning + WSQ strategy (n = 21) - Control group: Traditional video-based learning (n = 24)\nPlatform Used: Gather.town – a virtual interactive environment\n\n\n\nyt-video\n\n\nDuration: Two weeks (2 sessions × 100 minutes)",
+    "text": "Methodology\nDesign: Quasi-experimental pretest-posttest design\nParticipants: 45 first-year nursing students\nGroups: - Experimental group: Online game-based learning + WSQ strategy (n = 21) - Control group: Traditional video-based learning (n = 24)\nPlatform Used: Gather.town – a virtual interactive environment\n\n\n\nDuration: Two weeks (2 sessions × 100 minutes)",
     "crumbs": [
       "Single Studies",
       "Matischek Study"
@@ -214,7 +214,7 @@
     "href": "docs/matischek_study.html#results",
     "title": "Facilitating nursing students’ skill training in distance education via online game-based learning with the watch-summarize-question approach during the COVID-19 pandemic: A quasi-experimental study",
     "section": "Results",
-    "text": "Results\n\nLearning AchievementSelf-EfficacyEngagement & Satisfaction\n\n\n\nExperimental group had significantly higher posttest scores (Adjusted Mean: 90.97) vs. control (64.40).\nClear benefits observed from interactive, task-based game learning combined with reflection and questioning.\n\n\n\n\nHigher confidence levels in the experimental group (Mean: 4.74 vs. 3.84).\nAttributed to active participation, peer interaction, and repeated practice opportunities.\n\n\n\n\nStudents using OGBL + WSQ showed greater learning engagement and satisfaction.\nIncreased interaction, competition, and scenario-based challenges contributed to improved outcomes.",
+    "text": "Results\n\nLearning AchievementSelf-EfficacyEngagementSatisfaction\n\n\n\nExperimental group had significantly higher posttest scores (Adjusted Mean: 90.97) vs. control (64.40).\nClear benefits observed from interactive, task-based game learning combined with reflection and questioning.\n\n\n\n\nHigher confidence levels in the experimental group (Mean: 4.74 vs. 3.84).\nAttributed to active participation, peer interaction, and repeated practice opportunities.\n\n\n\n\nStudents using the Gather Town environment + WSQ showed greater learning engagement.\nIncreased interaction, competition, and scenario-based challenges contributed to improved outcomes.\n\n\n\n\nStudents using the Gather Town environment + WSQ showed greater learning satisfaction.",
     "crumbs": [
       "Single Studies",
       "Matischek Study"
@@ -225,7 +225,7 @@
     "href": "docs/matischek_study.html#discussion",
     "title": "Facilitating nursing students’ skill training in distance education via online game-based learning with the watch-summarize-question approach during the COVID-19 pandemic: A quasi-experimental study",
     "section": "Discussion",
-    "text": "Discussion\n\n\n\n\n\n\nImportant\n\n\n\nThe integration of OGBL and WSQ: - Encouraged deep learning and critical thinking. - Fostered collaboration and student interaction, which are often missing in remote settings. - Supported self-regulated learning through structured reflection and peer discussion.\n\n\nThis model not only improved short-term outcomes in sputum suction training but also showed potential for broader application in nursing education.",
+    "text": "Discussion\n\n\n\n\n\n\nImportant\n\n\n\nThe integration of Gather Town Environment and WSQ: - Encouraged deeper learning and critical thinking. - Fostered collaboration and student interaction, which are often missing in remote settings. - Supported self-regulated learning through structured reflection and peer discussion.\n\n\nThis model not only improved short-term outcomes in sputum suction training but also showed potential for broader application in nursing education.",
     "crumbs": [
       "Single Studies",
       "Matischek Study"
@@ -254,22 +254,11 @@
     ]
   },
   {
-    "objectID": "docs/obrist_study.html",
-    "href": "docs/obrist_study.html",
-    "title": "A microworld-based role-playing game development approach to engaging students in interactive, enjoyable, and effective mathematics learning by Wang et al. (2018)",
-    "section": "",
-    "text": "In this study, Wang et al. (2018) explored how a microworld-based role-playing game could help elementary school students learn mathematics more effectively and enjoyably. The researchers developed a digital game called “Speedy World”, which was focused about a sixth-grade math unit on speed. The authors wanted to investigate if students who learned with the microworld-based gaming approach have significantly higher/better outcomes in Learning Achievement, Learning Motivation and Technology Acceptance compared to those who learned with the conventional technology enhanced learning approach.",
-    "crumbs": [
-      "Single Studies",
-      "Study Obrist"
-    ]
-  },
-  {
     "objectID": "docs/obrist_study.html#what-did-they-do",
     "href": "docs/obrist_study.html#what-did-they-do",
     "title": "A microworld-based role-playing game development approach to engaging students in interactive, enjoyable, and effective mathematics learning by Wang et al. (2018)",
-    "section": "",
-    "text": "In this study, Wang et al. (2018) explored how a microworld-based role-playing game could help elementary school students learn mathematics more effectively and enjoyably. The researchers developed a digital game called “Speedy World”, which was focused about a sixth-grade math unit on speed. The authors wanted to investigate if students who learned with the microworld-based gaming approach have significantly higher/better outcomes in Learning Achievement, Learning Motivation and Technology Acceptance compared to those who learned with the conventional technology enhanced learning approach.",
+    "section": "What did they do?",
+    "text": "What did they do?\nIn this study, Wang et al. (2018) explored how a microworld-based role-playing game could help elementary school students learn mathematics more effectively and enjoyably. The researchers developed a digital game called “Speedy World”, which was focused about a sixth-grade math unit on speed. The authors wanted to investigate if students who learned with the microworld-based gaming approach have significantly higher/better outcomes in Learning Achievement, Learning Motivation and Technology Acceptance compared to those who learned with the conventional technology enhanced learning approach.",
     "crumbs": [
       "Single Studies",
       "Study Obrist"
@@ -302,7 +291,7 @@
     "href": "docs/obrist_study.html#results",
     "title": "A microworld-based role-playing game development approach to engaging students in interactive, enjoyable, and effective mathematics learning by Wang et al. (2018)",
     "section": "Results",
-    "text": "Results\nThe authors could find significant results. Students in the game-based group showed higher Learning Achievement (table 1), greater Learning Motivation (table 2), and stronger technology acceptance (table 3). They not only performed better on post-tests, but also rated the system as easier and more useful than students who used a conventional technology enhanced learning approach.\nTable 1. One-way ANCOVA Results for Mathematics Learning Achievement\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup\nN\nMean\nSD\nAdjusted Mean\nAdjusted SD\nF\nη²\n\n\n\n\nExperimental group\n52\n75.96\n14.81\n76.00\n2.15\n4.38*\n0.27\n\n\nControl group\n55\n69.78\n20.34\n69.75\n2.09\n\n\n\n\n\n* p &lt; .05\n\nTable 2. One-way ANCOVA Results for Mathematics Learning Motivation\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup\nN\nMean\nSD\nAdjusted Mean\nAdjusted SD\nF\nη²\n\n\n\n\nExperimental group\n52\n4.87\n0.92\n4.87\n2.15\n8.64*\n0.45\n\n\nControl group\n55\n4.43\n1.12\n4.43\n2.09\n\n\n\n\n\n* p &lt; .05\n\nTable 3. t-Test Results for Post-Questionnaire Technology Acceptance Scores\n\n\n\n\n\n\n\n\n\n\n\nMeasure\nGroup\nN\nMean\nSD\nt\n\n\n\n\nPerceived usefulness\nExperimental group\n52\n3.32\n0.49\n6.11***\n\n\n\nControl group\n55\n2.77\n0.45\n\n\n\nPerceived ease of use\nExperimental group\n52\n3.33\n0.50\n5.28***\n\n\n\nControl group\n55\n2.77\n0.59\n\n\n\n\n*** p &lt; .001",
+    "text": "Results\nThe authors could find significant results. Students in the game-based group showed higher Learning Achievement (table 1), greater Learning Motivation (table 2), and stronger technology acceptance (table 3). They not only performed better on post-tests, but also rated the system as easier and more useful than students who used a conventional technology enhanced learning approach.\n\n\n\nTable 1. One-way ANCOVA Results for Mathematics Learning Achievement\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup\nN\nMean\nSD\nAdjusted Mean\nAdjusted SD\nF\nη²\n\n\n\n\nExperimental group\n52\n75.96\n14.81\n76.00\n2.15\n4.38*\n0.27\n\n\nControl group\n55\n69.78\n20.34\n69.75\n2.09\n\n\n\n\n\n* p &lt; .05\n\n\n\n\nTable 2. One-way ANCOVA Results for Mathematics Learning Motivation\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup\nN\nMean\nSD\nAdjusted Mean\nAdjusted SD\nF\nη²\n\n\n\n\nExperimental group\n52\n4.87\n0.92\n4.87\n2.15\n8.64*\n0.45\n\n\nControl group\n55\n4.43\n1.12\n4.43\n2.09\n\n\n\n\n\n* p &lt; .05\n\n\n\n\nTable 3. t-Test Results for Post-Questionnaire Technology Acceptance Scores\n\n\n\n\n\n\n\n\n\n\n\nMeasure\nGroup\nN\nMean\nSD\nt\n\n\n\n\nPerceived usefulness\nExperimental group\n52\n3.32\n0.49\n6.11***\n\n\n\nControl group\n55\n2.77\n0.45\n\n\n\nPerceived ease of use\nExperimental group\n52\n3.33\n0.50\n5.28***\n\n\n\nControl group\n55\n2.77\n0.59\n\n\n\n\n*** p &lt; .001",
     "crumbs": [
       "Single Studies",
       "Study Obrist"
@@ -322,9 +311,9 @@
   {
     "objectID": "docs/short_summary.html",
     "href": "docs/short_summary.html",
-    "title": "short summary meta",
+    "title": "Background and Research Gap",
     "section": "",
-    "text": "The effect of educational mobile games on learning performance: a meta-analysis and research synthesis\nour article was published in the journal Interactive Learning Environments\nInteractive Learning Environments is a well-regarded international peer-reviewed journal focused on educational technology and learning sciences. It is published by Taylor & Francis and covers a broad spectrum of topics such as interactive learning systems, online education, virtual classrooms, and instructional design.",
+    "text": "The effect of educational mobile games on learning performance: a meta-analysis and research synthesis  \n  \n  Ahmed Tlili, Michael Agyemang Adarkwah, Soheil Salha, Juan Garzón, Kinshuk & Daniel Burgos \n  \n  Published online: 31 Jan 2024. \n\nThis article was published in the journal Interactive Learning Environments,\na respected peer-reviewed journal focused on educational technology and learning sciences.\n\n\n\n\n\nBackground and Research Gap\n\nPrevious meta-analyses on educational games consistently report positive effects on learning performance,\nespecially in language, science, and math.\nExamples: Tsai & Tsai (2018, 2020), Kacmaz & Dubé (2022), Wang et al. (2022).\nSystematic reviews on educational mobile games show benefits such as increased motivation and improved learning outcomes,\nbut usually focus on specific subjects or use qualitative methods.\nSources: Schmitz et al. (2012), Gao et al. (2020), Su et al. (2021), Chang & Hwang (2019).\n\n\nResearch Gap:\nNo meta-analysis has explicitly and comprehensively focused on mobile educational games across all subjects and educational levels.\n\n\n\n\n\n\nResearch questions\n\nRQ1. What is the effect of educational mobile games on students’ learning performance in mobile learning?\nRQ2. How does the effect of educational mobile games vary according to the field of education in mobile learning?\nRQ3. How does the effect of educational mobile games vary according to the level of education in mobile learning?\nRQ4. How does the effect of educational mobile games vary according to the learning setting in mobile learning?\nRQ5. How does the effect of educational mobile games vary according to the intervention period in mobile learning?\nRQ6. How does the effect of educational mobile games vary according to the mobile device type in mobile learning?\n\n\n\n\nVisualisation reseach questions\n\n\n\n\nResults\n\noverall effect size: Hedge’s g = 0.97 CI = [0.90, 1.05]\nvariation in effect sizes: I² = 91.75 %\n\n\n\nConclusion\nFrom a theoretical perspective, this study enriches the ongoing debate on how to design effective educational mobile games. It shows that considering only the features of mobile devices (e.g. mobility and connectivity) or games (mechanics, gameplay, etc.) is not a sufficient condition for achieving INTERACTIVE LEARNING ENVIRONMENTS 7293 positive learning effects. It is important to recognize that an adequate combination of mobile devices, employed within proper learning setting and guided by an adequate game design (including the suitable genre, mechanics, etc.), yields better learning performance. This study also shows that some educational mobile games might be more effective for specific fields or levels of education. In this context, several researchers (Dillenbourg et al., 2013; Dimitriadis et al., 2013) have stated that “orchestration” should occur between different components – namely technology, educational context, and users – to achieve compatible, efficient, and effective technology-enhanced learning. Therefore, to achieve such orchestration when using educational mobile games, more research and discussion should take place in this regard to deeply understand how they would be effective across several variables (not only those considered in this study). From a practical perspective, this study provides substantial evidence about which game genres in mobile learning would be more effective under which circumstances. Such findings can provide guidance to different stakeholders (e.g. developers, designers, and researchers) about the game genres to adopt and implement in their contexts, depending on various variables highlighted in this present study, for better learning performance.\n\n\nCritical Remarks\n\nA table listing all studies per moderator (e.g., genre, field, level) would improve transparency\nSimple moderator analyses (e.g., like for game genre) would be preferable in addition to complex interaction terms\nSome important variables were ignored, despite high residual heterogeneity\n\nTheoretical grounding of games\nGame quality and learner perception\n\n\n\n\nConclusion for Steakholders\n\nChoose game genres carefully!\nConsider the device and setting!\nDon’t assume all educational games work the same!",
     "crumbs": [
       "Meta analysis",
       "Summary"
