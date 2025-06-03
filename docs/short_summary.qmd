@@ -1,8 +1,4 @@
 ---
-format:
-  html:
-    css: ../styles.css
-
 glossary:
   path: glossary.yml
   popup: hover
@@ -76,9 +72,17 @@ variation in effect sizes: *I²* = 91.75 %
 :::
 
 
-# Conclusion
+## Conclusion
 
-From a theoretical perspective, this study enriches the ongoing debate on how to design effective educational mobile games. It shows that considering only the features of mobile devices (e.g. mobility and connectivity) or games (mechanics, gameplay, etc.) is not a sufficient condition for achieving  INTERACTIVE LEARNING ENVIRONMENTS 7293 positive learning effects. It is important to recognize that an adequate combination of mobile devices, employed within proper learning setting and guided by an adequate game design (including the suitable genre, mechanics, etc.), yields better learning performance. This study also shows that some educational mobile games might be more effective for specific fields or levels of education. In this context, several researchers (Dillenbourg et al., 2013; Dimitriadis et al., 2013) have stated that “orchestration” should occur between different components – namely technology, educational context, and users – to achieve compatible, efficient, and effective technology-enhanced learning. Therefore, to achieve such orchestration when using educational mobile games, more research and discussion should take place in this regard to deeply understand how they would be effective across several variables (not only those considered in this study). From a practical perspective, this study provides substantial evidence about which game genres in mobile learning would be more effective under which circumstances. Such findings can provide guidance to different stakeholders (e.g. developers, designers, and researchers) about the game genres to adopt and implement in their contexts, depending on various variables highlighted in this present study, for better learning performance.
+- This meta-analysis confirms that educational mobile games have a **large positive effect** on students' learning performance (*g* = 0.97).
+- Puzzle games were especially effective, and moderating effects were found for education level, field, setting, device type, and intervention duration.
+
+## Limitations & Critical Reflections
+
+- A **study-level table** showing each game's classification across moderator variables would enhance transparency and replicability.
+- The use of **interaction effects** (instead of simpler moderator analyses) made interpretation less accessible and limited direct insights.
+- Many **potential moderators** were **not examined** (e.g., theoretical grounding, game quality, student perception), despite high residual heterogeneity.
+- Future studies should aim for **richer descriptions**, include **game design quality**, and explore **additional moderators** to reduce unexplained variance.
 
 
 # Critical Remarks

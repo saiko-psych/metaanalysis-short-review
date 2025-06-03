@@ -254,17 +254,6 @@
     ]
   },
   {
-    "objectID": "docs/obrist_study.html",
-    "href": "docs/obrist_study.html",
-    "title": "A microworld-based role-playing game development approach to engaging students in interactive, enjoyable, and effective mathematics learning by Wang et al. (2018)",
-    "section": "",
-    "text": "In this study, Wang et al. (2018) explored how a microworld-based role-playing game could help elementary school students learn mathematics more effectively and enjoyably. The researchers developed a digital game called “Speedy World”, which was focused about a sixth-grade math unit on speed. The authors wanted to investigate if students who learned with the microworld-based gaming approach have significantly higher/better outcomes in Learning Achievement, Learning Motivation and Technology Acceptance compared to those who learned with the conventional technology enhanced learning approach.",
-    "crumbs": [
-      "Single Studies",
-      "Study Obrist"
-    ]
-  },
-  {
     "objectID": "docs/obrist_study.html#what-did-they-do",
     "href": "docs/obrist_study.html#what-did-they-do",
     "title": "A microworld-based role-playing game development approach to engaging students in interactive, enjoyable, and effective mathematics learning by Wang et al. (2018)",
@@ -324,7 +313,7 @@
     "href": "docs/short_summary.html",
     "title": "Background and Research Gap",
     "section": "",
-    "text": "The effect of educational mobile games on learning performance: a meta-analysis and research synthesis  \n  \n  Ahmed Tlili, Michael Agyemang Adarkwah, Soheil Salha, Juan Garzón, Kinshuk & Daniel Burgos \n  \n  Published online: 31 Jan 2024. \n\nThis article was published in the journal Interactive Learning Environments,\na respected peer-reviewed journal focused on educational technology and learning sciences.\n\n\n\n\n\nBackground and Research Gap\n\nPrevious meta-analyses on educational games consistently report positive effects on learning performance,\nespecially in language, science, and math.\nExamples: Tsai & Tsai (2018, 2020), Kacmaz & Dubé (2022), Wang et al. (2022).\nSystematic reviews on educational mobile games show benefits such as increased motivation and improved learning outcomes,\nbut usually focus on specific subjects or use qualitative methods.\nSources: Schmitz et al. (2012), Gao et al. (2020), Su et al. (2021), Chang & Hwang (2019).\n\n\nResearch Gap:\nNo meta-analysis has explicitly and comprehensively focused on mobile educational games across all subjects and educational levels.\n\n\n\n\n\n\nResearch questions\n\nRQ1. What is the effect of educational mobile games on students’ learning performance in mobile learning?\nRQ2. How does the effect of educational mobile games vary according to the field of education in mobile learning?\nRQ3. How does the effect of educational mobile games vary according to the level of education in mobile learning?\nRQ4. How does the effect of educational mobile games vary according to the learning setting in mobile learning?\nRQ5. How does the effect of educational mobile games vary according to the intervention period in mobile learning?\nRQ6. How does the effect of educational mobile games vary according to the mobile device type in mobile learning?\n\n\n\n\nVisualisation reseach questions\n\n\n\n\nResults\n\noverall effect size: Hedge’s g = 0.97 CI = [0.90, 1.05]\nvariation in effect sizes: I² = 91.75 %\n\n\n\nConclusion\nFrom a theoretical perspective, this study enriches the ongoing debate on how to design effective educational mobile games. It shows that considering only the features of mobile devices (e.g. mobility and connectivity) or games (mechanics, gameplay, etc.) is not a sufficient condition for achieving INTERACTIVE LEARNING ENVIRONMENTS 7293 positive learning effects. It is important to recognize that an adequate combination of mobile devices, employed within proper learning setting and guided by an adequate game design (including the suitable genre, mechanics, etc.), yields better learning performance. This study also shows that some educational mobile games might be more effective for specific fields or levels of education. In this context, several researchers (Dillenbourg et al., 2013; Dimitriadis et al., 2013) have stated that “orchestration” should occur between different components – namely technology, educational context, and users – to achieve compatible, efficient, and effective technology-enhanced learning. Therefore, to achieve such orchestration when using educational mobile games, more research and discussion should take place in this regard to deeply understand how they would be effective across several variables (not only those considered in this study). From a practical perspective, this study provides substantial evidence about which game genres in mobile learning would be more effective under which circumstances. Such findings can provide guidance to different stakeholders (e.g. developers, designers, and researchers) about the game genres to adopt and implement in their contexts, depending on various variables highlighted in this present study, for better learning performance.\n\n\nCritical Remarks\n\nA table listing all studies per moderator (e.g., genre, field, level) would improve transparency\nSimple moderator analyses (e.g., like for game genre) would be preferable in addition to complex interaction terms\nSome important variables were ignored, despite high residual heterogeneity\n\nTheoretical grounding of games\nGame quality and learner perception\n\n\n\n\nConclusion for Steakholders\n\nChoose game genres carefully!\nConsider the device and setting!\nDon’t assume all educational games work the same!",
+    "text": "This article was published in the journal Interactive Learning Environments,\na respected peer-reviewed journal focused on educational technology and learning sciences.",
     "crumbs": [
       "Meta analysis",
       "Summary"
@@ -381,88 +370,22 @@
     ]
   },
   {
-    "objectID": "docs/short_summary.html#a-meta-analysis-and-research-synthesis-by-ahmed-tlili-et-al.-2024",
-    "href": "docs/short_summary.html#a-meta-analysis-and-research-synthesis-by-ahmed-tlili-et-al.-2024",
-    "title": "Short Summary Meta",
-    "section": "A Meta-Analysis and Research Synthesis by Ahmed Tlili et al. (2024)",
-    "text": "A Meta-Analysis and Research Synthesis by Ahmed Tlili et al. (2024)\nThis article was published in the journal Interactive Learning Environments,\na respected peer-reviewed journal focused on educational technology and learning sciences.",
-    "crumbs": [
-      "Meta analysis",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "docs/short_summary.html#study-purpose",
-    "href": "docs/short_summary.html#study-purpose",
-    "title": "Metaanalysis Website",
-    "section": "Study Purpose",
-    "text": "Study Purpose\n\n\n\n\n\n\nNote\n\n\n\nThe meta-analysis aims to synthesize existing research on the impact of educational mobile games on students’ learning performance across diverse settings.",
-    "crumbs": [
-      "Meta analysis",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "docs/short_summary.html#included-studies-and-data",
-    "href": "docs/short_summary.html#included-studies-and-data",
-    "title": "Metaanalysis Website",
-    "section": "Included Studies and Data",
-    "text": "Included Studies and Data\n\n\n\nParameter\nDetails\n\n\n\n\nNumber of studies\n28\n\n\nIndependent effects\n30\n\n\nTotal learners\n2,537",
-    "crumbs": [
-      "Meta analysis",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "docs/short_summary.html#key-findings",
-    "href": "docs/short_summary.html#key-findings",
-    "title": "Metaanalysis Website",
-    "section": "Key Findings",
-    "text": "Key Findings\n\n\nOverall effect size (Hedges’ g): 0.61 (medium to large effect)\n\nEducational mobile games significantly improve learning outcomes.\n\nModerator variables such as learning domain, country, and education level affect effect size.",
-    "crumbs": [
-      "Meta analysis",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "docs/short_summary.html#methodology-overview",
-    "href": "docs/short_summary.html#methodology-overview",
-    "title": "Metaanalysis Website",
-    "section": "Methodology Overview",
-    "text": "Methodology Overview\n\nRandom-effects meta-analysis model\n\nPRISMA guidelines used for systematic study selection\n\nEffect sizes calculated via Hedges’ g",
-    "crumbs": [
-      "Meta analysis",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "docs/short_summary.html#conclusions",
-    "href": "docs/short_summary.html#conclusions",
-    "title": "Metaanalysis Website",
-    "section": "Conclusions",
-    "text": "Conclusions\n\n\n\n\n\n\nTip\n\n\n\nEducational mobile games are effective learning tools, especially in contexts requiring enhanced learner engagement and motivation. The results support integrating mobile games into educational strategies.",
-    "crumbs": [
-      "Meta analysis",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "docs/short_summary.html#additional-resources",
-    "href": "docs/short_summary.html#additional-resources",
-    "title": "Metaanalysis Website",
-    "section": "Additional Resources",
-    "text": "Additional Resources\nFor more details, refer to the full meta-analysis paper by Ahmed Tlili et al. (2024) in Interactive Learning Environments.",
-    "crumbs": [
-      "Meta analysis",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "docs/short_summary.html#background",
-    "href": "docs/short_summary.html#background",
+    "objectID": "docs/short_summary.html#conclusion",
+    "href": "docs/short_summary.html#conclusion",
     "title": "Background and Research Gap",
-    "section": "Background",
-    "text": "Background\n\nPrevious meta-analyses on educational games consistently report positive effects on learning performance,\nespecially in language, science, and math.\nExamples: Tsai & Tsai (2018, 2020), Kacmaz & Dubé (2022), Wang et al. (2022).\nSystematic reviews on educational mobile games show benefits such as increased motivation and improved learning outcomes,\nbut usually focus on specific subjects or use qualitative methods.\nSources: Schmitz et al. (2012), Gao et al. (2020), Su et al. (2021), Chang & Hwang (2019).\n\n\nResearch Gap:\nNo meta-analysis has explicitly and comprehensively focused on mobile educational games across all subjects and educational levels.",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nThis meta-analysis confirms that educational mobile games have a large positive effect on students’ learning performance (g = 0.97).\nPuzzle games were especially effective, and moderating effects were found for education level, field, setting, device type, and intervention duration.",
+    "crumbs": [
+      "Meta analysis",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "docs/short_summary.html#limitations-critical-reflections",
+    "href": "docs/short_summary.html#limitations-critical-reflections",
+    "title": "Background and Research Gap",
+    "section": "Limitations & Critical Reflections",
+    "text": "Limitations & Critical Reflections\n\nA study-level table showing each game’s classification across moderator variables would enhance transparency and replicability.\nThe use of interaction effects (instead of simpler moderator analyses) made interpretation less accessible and limited direct insights.\nMany potential moderators were not examined (e.g., theoretical grounding, game quality, student perception), despite high residual heterogeneity.\nFuture studies should aim for richer descriptions, include game design quality, and explore additional moderators to reduce unexplained variance.",
     "crumbs": [
       "Meta analysis",
       "Summary"
