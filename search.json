@@ -313,7 +313,29 @@
     "href": "docs/short_summary.html",
     "title": "Background and Research Gap",
     "section": "",
-    "text": "The effect of educational mobile games on learning performance: a meta-analysis and research synthesis  \n  \n  Ahmed Tlili, Michael Agyemang Adarkwah, Soheil Salha, Juan Garzón, Kinshuk & Daniel Burgos \n  \n  Published online: 31 Jan 2024. \n\nThis article was published in the journal Interactive Learning Environments,\na respected peer-reviewed journal focused on educational technology and learning sciences.\n\n\n\n\n\nBackground and Research Gap\n\nPrevious meta-analyses on educational games consistently report positive effects on learning performance,\nespecially in language, science, and math.\nExamples: Tsai & Tsai (2018, 2020), Kacmaz & Dubé (2022), Wang et al. (2022).\nSystematic reviews on educational mobile games show benefits such as increased motivation and improved learning outcomes,\nbut usually focus on specific subjects or use qualitative methods.\nSources: Schmitz et al. (2012), Gao et al. (2020), Su et al. (2021), Chang & Hwang (2019).\n\n\nResearch Gap:\nNo meta-analysis has explicitly and comprehensively focused on mobile educational games across all subjects and educational levels.\n\n\n\n\n\n\nResearch questions\n\nRQ1. What is the effect of educational mobile games on students’ learning performance in mobile learning?\nRQ2. How does the effect of educational mobile games vary according to the field of education in mobile learning?\nRQ3. How does the effect of educational mobile games vary according to the level of education in mobile learning?\nRQ4. How does the effect of educational mobile games vary according to the learning setting in mobile learning?\nRQ5. How does the effect of educational mobile games vary according to the intervention period in mobile learning?\nRQ6. How does the effect of educational mobile games vary according to the mobile device type in mobile learning?\n\n\n\n\nVisualisation reseach questions\n\n\n\n\nResults\n\noverall effect size: Hedge’s g = 0.97 CI = [0.90, 1.05]\nvariation in effect sizes: I² = 91.75 %\n\n\n\nConclusion\nFrom a theoretical perspective, this study enriches the ongoing debate on how to design effective educational mobile games. It shows that considering only the features of mobile devices (e.g. mobility and connectivity) or games (mechanics, gameplay, etc.) is not a sufficient condition for achieving INTERACTIVE LEARNING ENVIRONMENTS 7293 positive learning effects. It is important to recognize that an adequate combination of mobile devices, employed within proper learning setting and guided by an adequate game design (including the suitable genre, mechanics, etc.), yields better learning performance. This study also shows that some educational mobile games might be more effective for specific fields or levels of education. In this context, several researchers (Dillenbourg et al., 2013; Dimitriadis et al., 2013) have stated that “orchestration” should occur between different components – namely technology, educational context, and users – to achieve compatible, efficient, and effective technology-enhanced learning. Therefore, to achieve such orchestration when using educational mobile games, more research and discussion should take place in this regard to deeply understand how they would be effective across several variables (not only those considered in this study). From a practical perspective, this study provides substantial evidence about which game genres in mobile learning would be more effective under which circumstances. Such findings can provide guidance to different stakeholders (e.g. developers, designers, and researchers) about the game genres to adopt and implement in their contexts, depending on various variables highlighted in this present study, for better learning performance.\n\n\nCritical Remarks\n\nA table listing all studies per moderator (e.g., genre, field, level) would improve transparency\nSimple moderator analyses (e.g., like for game genre) would be preferable in addition to complex interaction terms\nSome important variables were ignored, despite high residual heterogeneity\n\nTheoretical grounding of games\nGame quality and learner perception\n\n\n\n\nConclusion for Steakholders\n\nChoose game genres carefully!\nConsider the device and setting!\nDon’t assume all educational games work the same!",
+    "text": "This article was published in the journal Interactive Learning Environments,\na respected peer-reviewed journal focused on educational technology and learning sciences.",
+    "crumbs": [
+      "Meta analysis",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "docs/short_summary.html#conclusion",
+    "href": "docs/short_summary.html#conclusion",
+    "title": "Background and Research Gap",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nThis meta-analysis confirms that educational mobile games have a large positive effect on students’ learning performance (g = 0.97).\nPuzzle games were especially effective, and moderating effects were found for education level, field, setting, device type, and intervention duration.",
+    "crumbs": [
+      "Meta analysis",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "docs/short_summary.html#limitations-critical-reflections",
+    "href": "docs/short_summary.html#limitations-critical-reflections",
+    "title": "Background and Research Gap",
+    "section": "Limitations & Critical Reflections",
+    "text": "Limitations & Critical Reflections\n\nA study-level table showing each game’s classification across moderator variables would enhance transparency and replicability.\nThe use of interaction effects (instead of simpler moderator analyses) made interpretation less accessible and limited direct insights.\nMany potential moderators were not examined (e.g., theoretical grounding, game quality, student perception), despite high residual heterogeneity.\nFuture studies should aim for richer descriptions, include game design quality, and explore additional moderators to reduce unexplained variance.",
     "crumbs": [
       "Meta analysis",
       "Summary"
