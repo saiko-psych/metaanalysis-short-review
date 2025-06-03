@@ -1,24 +1,5 @@
 /* css styles */
 
-:root {
-  --primary-color: #007bff;
-  --primary-color-dark: #0056b3;
-  --background-light: #f8faff;
-  --text-color: #212529;
-  --link-color: #004085;
-  --link-hover-color: #002752;
-  --border-color: var(--primary-color);
-}
-
-:root[data-theme="dark"] {
-  --primary-color: #339af0;       /* etwas helleres Blau für Dark Mode */
-  --primary-color-dark: #66b2ff;
-  --background-light: #121212;
-  --text-color: #e1e1e1;
-  --link-color: #80bdff;
-  --link-hover-color: #a6d1ff;
-  --border-color: var(--primary-color);
-}
 
 
 button.glossary {

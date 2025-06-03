@@ -40,7 +40,7 @@ This was our goal: [Benchmark Website](https://www.clearinghouse.edu.tum.de/spie
 <br>
 
 {{< video https://www.youtube.com/watch?v=rg0L3Ridriw
-    title="Timothee Statistics"
+    title="Meta-analysis"
     start="0"
     aspect-ratio="21x9" 
 >}}
@@ -54,6 +54,7 @@ This was our goal: [Benchmark Website](https://www.clearinghouse.edu.tum.de/spie
 <div style="margin-top: 2cm;"></div>
 
 ::: {.panel}
+
 ## How to Use This Website
 
 - Use the sidebar to navigate through the meta-analysis summary, individual studies, glossary, and about page.

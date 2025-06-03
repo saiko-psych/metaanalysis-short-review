@@ -62,3 +62,7 @@ button.glossary:hover {
   color: #002752;
   text-decoration: none;
 }
+
+.spacer {
+  margin-top: 2cm;
+}

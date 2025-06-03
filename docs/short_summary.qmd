@@ -1,12 +1,104 @@
 ---
-title: "short summary meta"
+format:
+  html:
+    css: ../styles.css
+
+glossary:
+  path: glossary.yml
+  popup: hover
+  show: true
+  
 ---
 
+::: .{spacer}
+:::
 
-# The effect of educational mobile games on learning performance: a meta-analysis and research synthesis
+```{=html}
+<div style="
+  background: linear-gradient(90deg, #007bff 0%, #0056b3 100%);
+  color: white;
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 123, 255, 0.4);
+  font-size: 1.8rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  line-height: 1.3;
+">
+  <div><span style="color: #00ffff">T</span><span style="color: #05fffa">h</span><span style="color: #0afef5">e</span><span style="color: #0ffef0"> </span><span style="color: #14feeb">e</span><span style="color: #19fde6">f</span><span style="color: #1efde1">f</span><span style="color: #23fcdc">e</span><span style="color: #28fcd7">c</span><span style="color: #2dfcd2">t</span><span style="color: #32fbcd"> </span><span style="color: #37fbc8">o</span><span style="color: #3cfbc3">f</span><span style="color: #41fabe"> </span><span style="color: #46fab9">e</span><span style="color: #4bf9b4">d</span><span style="color: #50f9af">u</span><span style="color: #55f9aa">c</span><span style="color: #5af8a5">a</span><span style="color: #5ff8a0">t</span><span style="color: #64f89b">i</span><span style="color: #69f796">o</span><span style="color: #6ef791">n</span><span style="color: #73f68c">a</span><span style="color: #78f687">l</span><span style="color: #7df682"> </span><span style="color: #82f57d">m</span><span style="color: #87f578">o</span><span style="color: #8cf573">b</span><span style="color: #91f46e">i</span><span style="color: #96f469">l</span><span style="color: #9bf364">e</span><span style="color: #a0f35f"> </span><span style="color: #a5f35a">g</span><span style="color: #aaf255">a</span><span style="color: #aff250">m</span><span style="color: #b4f24b">e</span><span style="color: #b9f146">s</span><span style="color: #bef141"> </span><span style="color: #c3f03c">o</span><span style="color: #c8f037">n</span><span style="color: #cdf032"> </span><span style="color: #d2ef2d">l</span><span style="color: #d7ef28">e</span><span style="color: #dcef23">a</span><span style="color: #e1ee1e">r</span><span style="color: #e6ee19">n</span><span style="color: #ebed14">i</span><span style="color: #f0ed0f">n</span><span style="color: #f5ed0a">g</span><span style="color: #faec05"> </span><span style="color: #ffec00">p</span><span style="color: #fbec00">e</span><span style="color: #f7ec00">r</span><span style="color: #f3ed00">f</span><span style="color: #efed00">o</span><span style="color: #ebed00">r</span><span style="color: #e7ed00">m</span><span style="color: #e3ee00">a</span><span style="color: #dfee00">n</span><span style="color: #dcee00">c</span><span style="color: #d8ee00">e</span><span style="color: #d4ef00">:</span><span style="color: #d0ef00"> </span><span style="color: #ccef00">a</span><span style="color: #c8ef00"> </span><span style="color: #c4f000">m</span><span style="color: #c0f000">e</span><span style="color: #bcf000">t</span><span style="color: #b8f000">a</span><span style="color: #b4f100">-</span><span style="color: #b0f100">a</span><span style="color: #acf100">n</span><span style="color: #a8f100">a</span><span style="color: #a4f200">l</span><span style="color: #a0f200">y</span><span style="color: #9df200">s</span><span style="color: #99f200">i</span><span style="color: #95f200">s</span><span style="color: #91f300"> </span><span style="color: #8df300">a</span><span style="color: #89f300">n</span><span style="color: #85f300">d</span><span style="color: #81f400"> </span><span style="color: #7df400">r</span><span style="color: #79f400">e</span><span style="color: #75f400">s</span><span style="color: #71f500">e</span><span style="color: #6df500">a</span><span style="color: #69f500">r</span><span style="color: #65f500">c</span><span style="color: #61f600">h</span><span style="color: #5df600"> </span><span style="color: #5af600">s</span><span style="color: #56f600">y</span><span style="color: #52f700">n</span><span style="color: #4ef700">t</span><span style="color: #4af700">h</span><span style="color: #46f700">e</span><span style="color: #42f800">s</span><span style="color: #3ef800">i</span><span style="color: #3af800">s</span></div>  
+  <br>
+  <span style="font-size:1.1rem; font-weight:400;">Ahmed Tlili, Michael Agyemang Adarkwah, Soheil Salha, Juan Garzón, Kinshuk & Daniel Burgos </span>
+  <br>
+  <span style="font-size:1.1rem; font-weight:400;">Published online: 31 Jan 2024. <span>
+</div>
+```
+
+This article was published in the journal [Interactive Learning Environments](https://www.tandfonline.com/journals/nile20?utm_medium=affiliate&utm_campaign=S7721946419_EMENAC_NILE&utm_source=researchgate.net){target="_blank"},\
+a respected peer-reviewed journal focused on educational technology and learning sciences.
+
+--- 
+
+<div style="margin-top: 2cm;"></div>
+
+# Background and Research Gap
+
+-   Previous **meta-analyses on educational games** consistently report **positive effects** on learning performance,\
+    especially in **language, science, and math**.\
+    Examples: Tsai & Tsai (2018, 2020), Kacmaz & Dubé (2022), Wang et al. (2022).
+
+-   Systematic reviews on **educational mobile games** show benefits such as increased motivation and improved learning outcomes,\
+    but usually focus on specific subjects or use qualitative methods.\
+    Sources: Schmitz et al. (2012), Gao et al. (2020), Su et al. (2021), Chang & Hwang (2019).
+
+> **Research Gap:**\
+> No meta-analysis has explicitly and comprehensively focused on mobile educational games across all subjects and educational levels.
+
+<div style="margin-top: 2cm;"></div>
+
+# Research questions
+
+-   **RQ1**. What is the effect of educational mobile games on students’ learning performance in mobile learning?
+-   **RQ2**. How does the effect of educational mobile games vary according to the field of education in mobile learning?
+-   **RQ3**. How does the effect of educational mobile games vary according to the level of education in mobile learning?
+-   **RQ4**. How does the effect of educational mobile games vary according to the learning setting in mobile learning?
+-   **RQ5**. How does the effect of educational mobile games vary according to the intervention period in mobile learning?
+-   **RQ6**. How does the effect of educational mobile games vary according to the mobile device type in mobile learning?
+
+![Visualisation reseach questions](img_summary/reseach_para.png)
+
+# Results
+
+::: .{panel}
+overall effect size: *Hedge’s g* = 0.97 CI = \[0.90, 1.05\]
+
+variation in effect sizes: *I²* = 91.75 %
+:::
 
 
-our article was published in the journal [Interactive Learning Environments](https://www.tandfonline.com/journals/nile20?utm_medium=affiliate&utm_campaign=S7721946419_EMENAC_NILE&utm_source=researchgate.net)
+# Conclusion
 
-*Interactive Learning Environments* is a well-regarded international peer-reviewed journal focused on educational technology and learning sciences. It is published by Taylor & Francis and covers a broad spectrum of topics such as interactive learning systems, online education, virtual classrooms, and instructional design.
+From a theoretical perspective, this study enriches the ongoing debate on how to design effective educational mobile games. It shows that considering only the features of mobile devices (e.g. mobility and connectivity) or games (mechanics, gameplay, etc.) is not a sufficient condition for achieving  INTERACTIVE LEARNING ENVIRONMENTS 7293 positive learning effects. It is important to recognize that an adequate combination of mobile devices, employed within proper learning setting and guided by an adequate game design (including the suitable genre, mechanics, etc.), yields better learning performance. This study also shows that some educational mobile games might be more effective for specific fields or levels of education. In this context, several researchers (Dillenbourg et al., 2013; Dimitriadis et al., 2013) have stated that “orchestration” should occur between different components – namely technology, educational context, and users – to achieve compatible, efficient, and effective technology-enhanced learning. Therefore, to achieve such orchestration when using educational mobile games, more research and discussion should take place in this regard to deeply understand how they would be effective across several variables (not only those considered in this study). From a practical perspective, this study provides substantial evidence about which game genres in mobile learning would be more effective under which circumstances. Such findings can provide guidance to different stakeholders (e.g. developers, designers, and researchers) about the game genres to adopt and implement in their contexts, depending on various variables highlighted in this present study, for better learning performance.
+
+
+# Critical Remarks
+
+ - A table listing all studies per moderator (e.g., genre, field, level) would improve transparency
+
+
+ - Simple moderator analyses (e.g., like for game genre) would be preferable in addition to complex interaction terms
+
+
+ - Some important variables were ignored, despite high residual heterogeneity 
+    - Theoretical grounding of games
+    - Game quality and learner perception
+
+
+# Conclusion for Steakholders
+
+ 1. Choose game genres carefully!
+ 2. Consider the device and setting!
+ 3. Don’t assume all educational games work the same!
+
+
 

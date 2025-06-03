@@ -1,17 +1,22 @@
 ---
 title: "Facilitating nursing students’ skill training in distance education via online game-based learning with the watch-summarize-question approach during the COVID-19 pandemic: A quasi-experimental study"
 
+format:
+  html:
+    css: styles_docs.css
+
+
 glossary:
   path: ../glossary.yml
   popup: hover
   show: true
 ---
 
-
+<div style="margin-top: 2cm;"></div>
 
 Ching-Yi Chang, Min-Huey Chung, Jie Chi Yang 
 
-
+<div style="margin-top: 2cm;"></div>
 
 ## Summary: Enhancing Nursing Skill Training via Game-Based Learning
 
@@ -27,9 +32,11 @@ This study investigates the effectiveness of integrating **online game-based lea
 
 ---
 
+<div style="margin-top: 2cm;"></div>
+
 ## Methodology
 
-::: {.callout-tip}
+
 **Design:** Quasi-experimental pretest-posttest design  
 **Participants:** 45 first-year nursing students  
 **Groups:**
@@ -37,14 +44,29 @@ This study investigates the effectiveness of integrating **online game-based lea
 - **Control group:** Traditional video-based learning (n = 24)  
 **Platform Used:** Gather.town – a virtual interactive environment 
 
-![yt-video](https://www.youtube.com/watch?v=zbllvQZRyh0)
+<br>
+
+{{< video https://www.youtube.com/watch?v=zbllvQZRyh0
+    title="gather town"
+    start="0"
+    aspect-ratio="21x9" 
+>}}
+
+<br>
+
+
 
 **Duration:** Two weeks (2 sessions × 100 minutes)
-:::
+
 
 ---
 
+
+<div style="margin-top: 2cm;"></div>
+
 ## Results
+
+
 
 ::: {.panel-tabset}
 ### Learning Achievement
@@ -55,18 +77,23 @@ This study investigates the effectiveness of integrating **online game-based lea
 - Higher confidence levels in the experimental group (Mean: 4.74 vs. 3.84).
 - Attributed to active participation, peer interaction, and repeated practice opportunities.
 
-### Engagement & Satisfaction
-- Students using OGBL + WSQ showed greater learning engagement and satisfaction.
+### Engagement 
+- Students using the Gather Town environment + WSQ showed greater learning engagement.
 - Increased interaction, competition, and scenario-based challenges contributed to improved outcomes.
+
+### Satisfaction
+- Students using the Gather Town environment + WSQ showed greater learning satisfaction.
 :::
 
 ---
 
+<div style="margin-top: 2cm;"></div>
+
 ## Discussion
 
 ::: {.callout-important}
-The integration of **OGBL and WSQ**:
-- Encouraged deep learning and critical thinking.
+The integration of **Gather Town Environment and WSQ**:
+- Encouraged deeper learning and critical thinking.
 - Fostered collaboration and student interaction, which are often missing in remote settings.
 - Supported self-regulated learning through structured reflection and peer discussion.
 :::
@@ -74,6 +101,8 @@ The integration of **OGBL and WSQ**:
 This model not only improved short-term outcomes in sputum suction training but also showed potential for broader application in nursing education.
 
 ---
+
+<div style="margin-top: 2cm;"></div>
 
 ## Conclusion & Recommendations
 
@@ -88,6 +117,7 @@ While the results were promising, the study notes:
 - Consider applying the same model to other nursing procedures or interprofessional training.
 :::
 
+<div style="margin-top: 2cm;"></div>
 
 ## Critique
 
